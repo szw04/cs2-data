@@ -1,0 +1,24 @@
+name: CS2 Data Bot
+on:
+  schedule:
+    - cron: '*/30 * * * *' # 每30分钟自动运行一次
+  workflow_dispatch: # 允许你手动点击运行
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch Steam News and GitHub Activity
+        run: |
+          # 抓取CS2更新日志
+          curl "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=730&count=1" > news.json
+          # 抓取开发者活动 (GitHub Commits)
+          curl "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits?per_page=10" > activity.json
+      - name: Push to Repo
+        run: |
+          git config --global user.name "CS2-Bot"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "Update CS2 data" || exit 0
+          git push
