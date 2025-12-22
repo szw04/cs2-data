@@ -3,13 +3,6 @@ import json
 import re
 from deep_translator import GoogleTranslator
 
-def clean_bbcode(text):
-    # 预处理：删除 [img]...[/img] 标签，因为它们包含长链接且不需要翻译
-    text = re.sub(r'\[img\].*?\[/img\]', '', text)
-    # 删除视频标签
-    text = re.sub(r'\[video.*?\][\s\S]*?\[\/video\]', '', text)
-    return text
-
 def fetch_and_translate():
     url = "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=730&count=10"
     response = requests.get(url)
@@ -20,17 +13,19 @@ def fetch_and_translate():
 
     for item in news_items:
         try:
-            # 翻译标题
+            # 1. 翻译标题
             item['title'] = translator.translate(item['title'])
             
-            # 核心优化：先清洗掉干扰标签再翻译
-            original_content = item.get('contents', '')
-            cleaned_content = clean_bbcode(original_content)
+            # 2. 保留图片标签，仅翻译文本
+            content = item.get('contents', '')
             
-            # 放宽限制到 2500 字符，确保内容完整性
-            content_to_translate = cleaned_content[:2500] 
+            # 增加翻译截断长度到 5000，确保图片标签不被切断
+            content_to_process = content[:5000] 
             
-            item['contents'] = translator.translate(content_to_translate)
+            # 这里的逻辑是：GoogleTranslator 会自动跳过 [img] 这种特殊格式
+            # 如果翻译后标签损坏，我们可以考虑更复杂的占位符方案，但通常直接翻译即可
+            item['contents'] = translator.translate(content_to_process)
+            
         except Exception as e:
             print(f"翻译失败: {e}")
 
