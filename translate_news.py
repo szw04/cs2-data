@@ -13,21 +13,22 @@ def fetch_and_translate():
 
     for item in news_items:
         try:
-            # 1. 翻译标题
-            item['title'] = translator.translate(item['title'])
+            # 1. 保留原始英文标题和内容
+            item['title_en'] = item.get('title', '')
+            item['contents_en'] = item.get('contents', '')
             
-            # 2. 保留图片标签，仅翻译文本
-            content = item.get('contents', '')
+            # 2. 翻译并存入中文专用字段
+            item['title_cn'] = translator.translate(item['title_en'])
             
-            # 增加翻译截断长度到 5000，确保图片标签不被切断
-            content_to_process = content[:5000] 
-            
-            # 这里的逻辑是：GoogleTranslator 会自动跳过 [img] 这种特殊格式
-            # 如果翻译后标签损坏，我们可以考虑更复杂的占位符方案，但通常直接翻译即可
-            item['contents'] = translator.translate(content_to_process)
+            # 限制长度以保证翻译质量，同时保留 [img] 标签
+            content_to_process = item['contents_en'][:4000] 
+            item['contents_cn'] = translator.translate(content_to_process)
             
         except Exception as e:
             print(f"翻译失败: {e}")
+            # 如果翻译失败，确保字段存在以防小程序报错
+            item['title_cn'] = item.get('title', '')
+            item['contents_cn'] = item.get('contents', '')
 
     with open('news.json', 'w', encoding='utf-8') as f:
         json.dump({"appnews": {"newsitems": news_items}}, f, ensure_ascii=False, indent=2)
