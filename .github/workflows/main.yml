@@ -12,7 +12,7 @@ jobs:
       - name: Fetch Steam News and GitHub Activity
         run: |
           # 抓取CS2更新日志
-          curl "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=730&count=10" > news.json
+          curl "https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=730&count=10&l=schinese" > news.json
           # 抓取开发者活动 (GitHub Commits)
           curl "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits?per_page=10" > activity.json
       - name: Push to Repo
