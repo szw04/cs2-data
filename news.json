@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1822556746160428",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746160428",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Landing vertical velocity now affects landing speed penalties similar to sv_legacy_jump stamina.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed an issue that led to a small number of users to erroneously receive a VAC ban. Those bans have been reversed.[/p][/*][*][p]Fixed a case where HUD safezone settings were not being applied.[/p][/*][*][p]Various server stability improvements.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Anubis[/p][list][*][p]Fixed a case where physics objects would interact with multiple overlapping convex water volumes.[/p][/*][*][p]Various player clipping adjustments.[/p][/*][*][p]Radar minimap updated to match recent changes.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1769122494,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Landing vertical velocity now affects landing speed penalties similar to sv_legacy_jump stamina.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed an issue that led to a small number of users to erroneously receive a VAC ban. Those bans have been reversed.[/p][/*][*][p]Fixed a case where HUD safezone settings were not being applied.[/p][/*][*][p]Various server stability improvements.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Anubis[/p][list][*][p]Fixed a case where physics objects would interact with multiple overlapping convex water volumes.[/p][/*][*][p]Various player clipping adjustments.[/p][/*][*][p]Radar minimap updated to match recent changes.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ GAMEPLAY ][/p][list][*][p]着陆垂直速度现在会影响类似于 sv_legacy_jump 耐力的着陆速度惩罚。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]修复了导致少数用户错误收到 VAC 禁令的问题。这些禁令已被撤销。[/p][/*][*][p]修复了未应用 HUD 安全区设置的情况。[/p][/*][*][p]各种服务器稳定性改进。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Anubis[/p][list][*][p]修复了物理对象会与多个重叠的凸水体相互作用。[/p][/*][*][p]各种玩家剪辑调整。[/p][/*][*][p]更新雷达小地图以匹配最近的更改。[/p][/*][/list]"
+      },
+      {
         "gid": "1822556746157781",
         "title": "The Fourth Season",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746157781",
@@ -179,26 +199,6 @@
         "contents_en": "[p]Today we are introducing optional Supplemental Terms for releasing Counter-Strike 2 items in-game, found [url=\"https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730\"]here[/url], which allows the Counter-Strike 2 team to license items for a flat fee, found below:[/p][list][*][p]Weapon finish: $35,000.00 USD[/p][/*][*][p]Sticker: $6,000.00 USD[/p][/*][*][p]Charm: $6,000.00 USD[/p][/*][/list][p]If a Steam account agrees to these new Supplemental Terms, all of the account's Workshop items can now be distributed where Community items were previously not available, such as The Armory. [/p][p][/p][h3]A Call to Arms-ory[/h3][p]As part of a future update, we are looking for weapon finishes inspired by two themes:[/p][list][*][p]Arabesque Art and Arabian Mythology[/p][/*][*][p]Spy/Tech[/p][/*][/list][p]We are also looking for stickers inspired by two different themes:[/p][list][*][p]Auto Racing[/p][/*][*][p]Fruits and Vegetables[/p][/*][/list][p]To submit weapon finishes and/or stickers to the Call to Arms, select the appropriate option using the updated Counter-Strike 2 Workshop Tool:[/p][p][img src=\"{STEAM_CLAN_IMAGE}/3381077/3f23de85ca6d44c82af2cefb0b66d9435e1f783f.png\"][/img][/p][p][img src=\"{STEAM_CLAN_IMAGE}/3381077/4130c29d0220e97f1c31cd3c74f0527afa286e5e.png\"][/img][/p][p]If you already have Steam Workshop submissions you believe fit into these themes, you will need to re-submit the items and tag them using the options above.[/p][p]Finally, today we're releasing the Dr. Boom charm model, which can be painted and submitted for a future community charm collection. And we're adding a new Paint Kit type, Custom Paint Job Extended, which includes options for iridescence and other features.[/p][p]We're excited to see what you come up with![/p]",
         "title_cn": "CS2 创意工坊更新",
         "contents_cn": "[p]今天，我们引入了在游戏中发布《反恐精英 2》物品的可选补充条款，可在 [url=\"https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730\"]此处[/url]找到，该条款允许《反恐精英 2》团队以固定费用许可物品，如下所示：[/p][列表][*][p]武器成品：35,000.00 美元美元[/p][/*][*][p]贴纸：$6,000.00 美元[/p][/*][*][p]饰品：$6,000.00 美元[/p][/*][/list][p]如果 Steam 帐户同意这些新的补充条款，则该帐户的所有创意工坊物品现在都可以在社区物品以前不可用的地方分发，例如军械库。 [/p][p][/p][h3]对武器的召唤[/h3][p]作为未来更新的一部分，我们正在寻找受两个主题启发的武器饰面：[/p][list][*][p]阿拉伯式花纹艺术和阿拉伯神话[/p][/*][*][p]间谍/科技[/p][/*][/list][p]我们也在寻找受两种不同主题启发的贴纸主题：[/p][list][*][p]赛车[/p][/*][*][p]水果和蔬菜[/p][/*][/list][p]要向“战斗号召”提交武器饰面和/或贴纸，请使用更新的《反恐精英 2》创意工坊工具选择适当的选项：[/p][p][img src=\"{STEAM_CLAN_IMAGE}/3381077/3f23de85ca6d44c82af2cefb0b66d9435e1f783f.png\"][/img][/p][p][img src=\"{STEAM_CLAN_IMAGE}/3381077/4130c29d0220e97f1c31cd3c74f0527afa286e5e.png\"][/img][/p][p]如果您已经提交了适合这些主题的 Steam 创意工坊，则需要重新提交项目并使用选项标记它们[/p][p]最后，今天我们发布了 Dr. Boom 护身符模型，您可以对其进行绘制并提交以用于未来的社区护身符收藏。我们正在添加新的绘画套件类型，自定义绘画作业扩展，其中包括虹彩选项和其他功能。[/p][p]我们很高兴看到您的想法！[/p]"
-      },
-      {
-        "gid": "1816849002009278",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002009278",
-        "is_external_url": true,
-        "author": "Vitaliy",
-        "contents": "[p]\\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of SG 556 deploy animation.[/p][/*][*][p]Stability improvements.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1763596068,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MISC ][/p][list][*][p]Fixed a case of observers experiencing incorrect post-processing effects when switching observer targets.[/p][/*][*][p]Disabled TrueView while watching a live playcast to match on-server observing experience.[/p][/*][*][p]Fixed a wiggle at the end of SG 556 deploy animation.[/p][/*][*][p]Stability improvements.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ MISC ][/p][list][*][p]修复了观察者在切换观察者目标时遇到不正确的后处理效果的情况。[/p][/*][*][p]在观看直播播放时禁用 TrueView 以匹配服务器上的观察体验。[/p][/*][*][p]修复了 SG 556 部署结束时的摆动动画。[/p][/*][*][p]稳定性改进。[/p][/*][/list]"
       }
     ]
   }
