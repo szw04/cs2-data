@@ -1,5 +1,87 @@
 [
   {
+    "sha": "9c721fe55177a7d61cc5474df7fabe05c7a71b46",
+    "node_id": "C_kwDOBIoq7toAKDljNzIxZmU1NTE3N2E3ZDYxY2M1NDc0ZGY3ZmFiZTA1YzdhNzFiNDY",
+    "commit": {
+      "author": {
+        "name": "Wendy",
+        "email": "freeman@steamdb.info",
+        "date": "2026-01-27T00:08:56Z"
+      },
+      "committer": {
+        "name": "Wendy",
+        "email": "freeman@steamdb.info",
+        "date": "2026-01-27T00:08:56Z"
+      },
+      "message": "2000722 | 45 files | M DumpSource2/schemas/server/CMolotovProjectile.h,  M game/bin/built_from_cl.txt,  M game/bin/linuxsteamrt64/libanimationsystem_strings.txt,  M game/bin/linuxsteamrt64/libengine2_strings.txt,  M game/bin/linuxsteamrt64/libmaterialsystem2_strings.txt,  M game/bin/linuxsteamrt64/libmeshsystem_strings.txt,  M game/bin/linuxsteamrt64/libscenefilecache_strings.txt,  M game/bin/linuxsteamrt64/libsoundsystem_strings.txt,  M game/bin/linuxsteamrt64/libworldrenderer_strings.txt,  M game/bin/win64/assetbrowser_strings.txt,  M game/bin/win64/assetpreview_strings.txt,  M game/bin/win64/assetrename_strings.txt,  M game/bin/win64/resourcecompiler_strings.txt,  M game/bin/win64/source1import.exe_strings.txt,  M game/bin/win64/tools/hammer_strings.txt,  M game/bin/win64/tools/met_strings.txt,  M game/bin/win64/tools/modeldoc_editor_strings.txt,  M game/bin/win64/tools/pet_strings.txt,  M game/bin/win64/tools/postprocessingeditor_strings.txt,  M game/bin/win64/tools/sfm_strings.txt,  M game/bin/win64/toolscenenodes_strings.tx\n\nhttps://steamdb.info/patchnotes/21657141/",
+      "tree": {
+        "sha": "14477fdefab11f9c8548d4df0014bce84f406421",
+        "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/git/trees/14477fdefab11f9c8548d4df0014bce84f406421"
+      },
+      "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/git/commits/9c721fe55177a7d61cc5474df7fabe05c7a71b46",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEkGd5cSI/q11XJSir8G8kCsYFCeUFAml4AhgACgkQ8G8kCsYF\nCeUsZRAAjB5grZq4oEzdujGjkEC9Gb0Spsd1br6JPxEQqfbgheQr18X9srDo2PkM\nDeyiFsJf4xPC2k4BwusmYV6CNkrvH+OJeKaWw0xpEZEbuBVVQ2q4HgA5OBw7Ylem\nWms5qG5bQNk0tHlZF5Ji5hhIyN+Eh0021iHP93OZZWfhmCGeEN6CrS+CVqUkm9un\nAoooLhmBlgKuN2ArxCuL79/9iXnSSxzULx5tOvn5PQNBd5p6tfHLYLwylCkTxg5h\nHdodBRs+XSFCZspk+EMLOn6lKQt9nf5/vihfCxlc3Jvg5BDx8KKkRj0AfFp87DsJ\nA5OUqf8kutZ7xeRPxcyO+aoz+Ttdp8R9BDVmsLIOOnOoUd2W+HPpaVFSI3CgvH5m\niUJFvbtoln5GwMtgO+GEKdswe4f+Qt8j9dHhVefagpbBGr1NVWRumfw3x0HvNTZY\nNRS9i3POVKUA70eNIh3TLyBNHrsOYgXTXovdfZa/IzgMXZjVo6jXV4kMcXzsdHEl\niD2OsjQwrodcIbrAJn5/DohNHO05CfoAmBw5xMEiBnkeIrwltIVzVrlOfk3v9ti+\nF0+54wlwPcrRyWleyck2HacMHyJ7Tr7PgVQYOM1hTUH6JuDUwoon1qselRjlNXfK\nN33m5udAeCMZTdvIPQU68S81w7/RZHrWMSSDJqPHgmlyt5KOkvQ=\n=oFNP\n-----END PGP SIGNATURE-----",
+        "payload": "tree 14477fdefab11f9c8548d4df0014bce84f406421\nparent 69f39e8d0d02760e2f90a001e4f1376005d7d856\nauthor Wendy <freeman@steamdb.info> 1769472536 +0000\ncommitter Wendy <freeman@steamdb.info> 1769472536 +0000\n\n2000722 | 45 files | M DumpSource2/schemas/server/CMolotovProjectile.h,  M game/bin/built_from_cl.txt,  M game/bin/linuxsteamrt64/libanimationsystem_strings.txt,  M game/bin/linuxsteamrt64/libengine2_strings.txt,  M game/bin/linuxsteamrt64/libmaterialsystem2_strings.txt,  M game/bin/linuxsteamrt64/libmeshsystem_strings.txt,  M game/bin/linuxsteamrt64/libscenefilecache_strings.txt,  M game/bin/linuxsteamrt64/libsoundsystem_strings.txt,  M game/bin/linuxsteamrt64/libworldrenderer_strings.txt,  M game/bin/win64/assetbrowser_strings.txt,  M game/bin/win64/assetpreview_strings.txt,  M game/bin/win64/assetrename_strings.txt,  M game/bin/win64/resourcecompiler_strings.txt,  M game/bin/win64/source1import.exe_strings.txt,  M game/bin/win64/tools/hammer_strings.txt,  M game/bin/win64/tools/met_strings.txt,  M game/bin/win64/tools/modeldoc_editor_strings.txt,  M game/bin/win64/tools/pet_strings.txt,  M game/bin/win64/tools/postprocessingeditor_strings.txt,  M game/bin/win64/tools/sfm_strings.txt,  M game/bin/win64/toolscenenodes_strings.tx\n\nhttps://steamdb.info/patchnotes/21657141/\n",
+        "verified_at": "2026-01-27T00:09:01Z"
+      }
+    },
+    "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits/9c721fe55177a7d61cc5474df7fabe05c7a71b46",
+    "html_url": "https://github.com/SteamDatabase/GameTracking-CS2/commit/9c721fe55177a7d61cc5474df7fabe05c7a71b46",
+    "comments_url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits/9c721fe55177a7d61cc5474df7fabe05c7a71b46/comments",
+    "author": {
+      "login": "SteamDB-Tracker",
+      "id": 3742610,
+      "node_id": "MDQ6VXNlcjM3NDI2MTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3742610?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SteamDB-Tracker",
+      "html_url": "https://github.com/SteamDB-Tracker",
+      "followers_url": "https://api.github.com/users/SteamDB-Tracker/followers",
+      "following_url": "https://api.github.com/users/SteamDB-Tracker/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SteamDB-Tracker/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SteamDB-Tracker/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SteamDB-Tracker/subscriptions",
+      "organizations_url": "https://api.github.com/users/SteamDB-Tracker/orgs",
+      "repos_url": "https://api.github.com/users/SteamDB-Tracker/repos",
+      "events_url": "https://api.github.com/users/SteamDB-Tracker/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SteamDB-Tracker/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "SteamDB-Tracker",
+      "id": 3742610,
+      "node_id": "MDQ6VXNlcjM3NDI2MTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3742610?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SteamDB-Tracker",
+      "html_url": "https://github.com/SteamDB-Tracker",
+      "followers_url": "https://api.github.com/users/SteamDB-Tracker/followers",
+      "following_url": "https://api.github.com/users/SteamDB-Tracker/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SteamDB-Tracker/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SteamDB-Tracker/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SteamDB-Tracker/subscriptions",
+      "organizations_url": "https://api.github.com/users/SteamDB-Tracker/orgs",
+      "repos_url": "https://api.github.com/users/SteamDB-Tracker/repos",
+      "events_url": "https://api.github.com/users/SteamDB-Tracker/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SteamDB-Tracker/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "69f39e8d0d02760e2f90a001e4f1376005d7d856",
+        "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits/69f39e8d0d02760e2f90a001e4f1376005d7d856",
+        "html_url": "https://github.com/SteamDatabase/GameTracking-CS2/commit/69f39e8d0d02760e2f90a001e4f1376005d7d856"
+      }
+    ]
+  },
+  {
     "sha": "69f39e8d0d02760e2f90a001e4f1376005d7d856",
     "node_id": "C_kwDOBIoq7toAKDY5ZjM5ZThkMGQwMjc2MGUyZjkwYTAwMWU0ZjEzNzYwMDVkN2Q4NTY",
     "commit": {
@@ -734,88 +816,6 @@
         "sha": "0804fd4cea27889a168cf1e81b1c2f3503ec18a1",
         "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits/0804fd4cea27889a168cf1e81b1c2f3503ec18a1",
         "html_url": "https://github.com/SteamDatabase/GameTracking-CS2/commit/0804fd4cea27889a168cf1e81b1c2f3503ec18a1"
-      }
-    ]
-  },
-  {
-    "sha": "0804fd4cea27889a168cf1e81b1c2f3503ec18a1",
-    "node_id": "C_kwDOBIoq7toAKDA4MDRmZDRjZWEyNzg4OWExNjhjZjFlODFiMWMyZjM1MDNlYzE4YTE",
-    "commit": {
-      "author": {
-        "name": "Wendy",
-        "email": "freeman@steamdb.info",
-        "date": "2025-12-18T23:50:56Z"
-      },
-      "committer": {
-        "name": "Wendy",
-        "email": "freeman@steamdb.info",
-        "date": "2025-12-18T23:50:56Z"
-      },
-      "message": "2000700 | 5 files | M game/bin/built_from_cl.txt,  M game/csgo/pak01_dir.txt,  M game/csgo/pak01_dir/scripts/items/items_game.txt,  M game/csgo/readonly_tools_asset_info.txt,  M game/csgo/steam.inf\n\nhttps://steamdb.info/patchnotes/21248816/",
-      "tree": {
-        "sha": "c79419f993c2f282d5bb338da3a948f4593c240c",
-        "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/git/trees/c79419f993c2f282d5bb338da3a948f4593c240c"
-      },
-      "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/git/commits/0804fd4cea27889a168cf1e81b1c2f3503ec18a1",
-      "comment_count": 0,
-      "verification": {
-        "verified": true,
-        "reason": "valid",
-        "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCgAdFiEEkGd5cSI/q11XJSir8G8kCsYFCeUFAmlEk2AACgkQ8G8kCsYF\nCeUH4Q//aMH7oNrDGVI/CKqhNDaDsT1P3aeBO1x5Y9Vsq2betS+8LI/AjCdbkWAs\nGTWQsUNNo/wez6B0fuTocg9mo1xd7kXeYmu8igNwfoDcrSNTOdb4utS8XRpJ6uir\nWYz1dCr3nCZ4SVYXOKe0EatfuRvt5x7194E+8yjJXcc/RJscWEMWEMfHgoF78+g2\nA7gUuUTdk9UfxfqAr/RtUa1F0PXCsHSapE+9Z/ycxaQ1dB+GBDqFNnxLnygnfK0E\nYaG6ZbVNjvZio9Cry99WaYBYaZd8iN0CiY1R0Sppm+qfhk3AWwYDmUdMKyH09na/\nS5RjJnafAupFVWdbmbaIf2wo7fVCJdKLA1FT5SpmvkorMqugiK+ejif8YwPIFQlu\n5phK0inPZsJwKKDoWyarZeKfmTIQZa73+zIBEh2VTlsrMpQH+o+tjXNX3Tf4Vvg5\n12CjE+j96SXIxPg1o9BwiaesmJUQsANpBQNQ9JsprUvGJRMLwYV0nGZN8Ipt6vVa\n+rukQSFuk/QCBkumi2LMaEVAhGH3xV0tbynlXws/v2Pj/S9scZP1jiT26ZgW2XY+\nKlS6KIMbFu6b8zLIMQ514T+IfWLBK+D1EPvRbjR/exU2OFROqgNFgoncka/H0wzf\noqQkBDjlKmP5w3yWuszmkrap7V5ou8dSggcTElOtm4biN2spRZU=\n=9Ojn\n-----END PGP SIGNATURE-----",
-        "payload": "tree c79419f993c2f282d5bb338da3a948f4593c240c\nparent 97832847c4b6e1364e7cbe39d96c7742c6d67c40\nauthor Wendy <freeman@steamdb.info> 1766101856 +0000\ncommitter Wendy <freeman@steamdb.info> 1766101856 +0000\n\n2000700 | 5 files | M game/bin/built_from_cl.txt,  M game/csgo/pak01_dir.txt,  M game/csgo/pak01_dir/scripts/items/items_game.txt,  M game/csgo/readonly_tools_asset_info.txt,  M game/csgo/steam.inf\n\nhttps://steamdb.info/patchnotes/21248816/\n",
-        "verified_at": "2025-12-18T23:51:01Z"
-      }
-    },
-    "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits/0804fd4cea27889a168cf1e81b1c2f3503ec18a1",
-    "html_url": "https://github.com/SteamDatabase/GameTracking-CS2/commit/0804fd4cea27889a168cf1e81b1c2f3503ec18a1",
-    "comments_url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits/0804fd4cea27889a168cf1e81b1c2f3503ec18a1/comments",
-    "author": {
-      "login": "SteamDB-Tracker",
-      "id": 3742610,
-      "node_id": "MDQ6VXNlcjM3NDI2MTA=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3742610?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SteamDB-Tracker",
-      "html_url": "https://github.com/SteamDB-Tracker",
-      "followers_url": "https://api.github.com/users/SteamDB-Tracker/followers",
-      "following_url": "https://api.github.com/users/SteamDB-Tracker/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SteamDB-Tracker/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SteamDB-Tracker/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SteamDB-Tracker/subscriptions",
-      "organizations_url": "https://api.github.com/users/SteamDB-Tracker/orgs",
-      "repos_url": "https://api.github.com/users/SteamDB-Tracker/repos",
-      "events_url": "https://api.github.com/users/SteamDB-Tracker/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SteamDB-Tracker/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "SteamDB-Tracker",
-      "id": 3742610,
-      "node_id": "MDQ6VXNlcjM3NDI2MTA=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3742610?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SteamDB-Tracker",
-      "html_url": "https://github.com/SteamDB-Tracker",
-      "followers_url": "https://api.github.com/users/SteamDB-Tracker/followers",
-      "following_url": "https://api.github.com/users/SteamDB-Tracker/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SteamDB-Tracker/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SteamDB-Tracker/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SteamDB-Tracker/subscriptions",
-      "organizations_url": "https://api.github.com/users/SteamDB-Tracker/orgs",
-      "repos_url": "https://api.github.com/users/SteamDB-Tracker/repos",
-      "events_url": "https://api.github.com/users/SteamDB-Tracker/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SteamDB-Tracker/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "97832847c4b6e1364e7cbe39d96c7742c6d67c40",
-        "url": "https://api.github.com/repos/SteamDatabase/GameTracking-CS2/commits/97832847c4b6e1364e7cbe39d96c7742c6d67c40",
-        "html_url": "https://github.com/SteamDatabase/GameTracking-CS2/commit/97832847c4b6e1364e7cbe39d96c7742c6d67c40"
       }
     ]
   }
