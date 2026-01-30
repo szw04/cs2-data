@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1823191198603765",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198603765",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Performance optimizations for exploding chickens.[/p][/*][*][p]Fixed a map scripting bug where Entity.SetOwner wasn't accepting undefined.[/p][/*][*][p]Added a method for community maps to save modified user settings. Running 'host_writeconfig_with_prompt' will prompt the user for permission to save. If accepted, some of the modified settings (radar, viewmodel, safezones, etc) will be kept after the map exits. [/p][/*][*][p]Community maps are now restricted to a smaller list of allowed console commands.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Stronghold[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554\"]Update Notes[/url])[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1769732256,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Performance optimizations for exploding chickens.[/p][/*][*][p]Fixed a map scripting bug where Entity.SetOwner wasn't accepting undefined.[/p][/*][*][p]Added a method for community maps to save modified user settings. Running 'host_writeconfig_with_prompt' will prompt the user for permission to save. If accepted, some of the modified settings (radar, viewmodel, safezones, etc) will be kept after the map exits. [/p][/*][*][p]Community maps are now restricted to a smaller list of allowed console commands.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Stronghold[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554\"]Update Notes[/url])[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ 游戏玩法 ][/p][list][*][p]在地面附近的半空中爆炸的高爆手榴弹造成的伤害将不再像在地面上爆炸一样计算。[/p][/*][/list][p][/p][p]\\[ 声音 ][/p][list][*][p]各种刀声调整。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]爆炸鸡的性能优化。[/p][/*][*][p]修复了 Entity.SetOwner 不接受未定义的地图脚本错误。[/p][/*][*][p]添加了社区地图保存修改用户的方法设置。运行“host_writeconfig_with_prompt”将提示用户是否有权保存。如果接受，一些修改的设置（雷达、视图模型、安全区等）将在地图退出后保留。 [/p][/*][*][p]社区地图现在仅限于允许的控制台命令的较小列表。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]要塞[/p][list][*][p]已更新到社区研讨会的最新版本([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554\"]更新说明[/url])[/p][/*][/list]"
+      },
+      {
         "gid": "1822556746168133",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746168133",
@@ -56,7 +76,7 @@
         "title_en": "The Fourth Season",
         "contents_en": "[img]https://clan.fastly.steamstatic.com/images/3381077/cacb757bc3e9944ba4c827d2c5dc1751ab5400fa.png[/img][p]Premier Season Four is here, and it brings a host of community content, in-game items, gameplay tweaks, and bug fixes along with it!  [/p][p]Anubis is back after a short vacation, and has several gameplay adjustments to show for it. The release notes have the full story, but let's just say it's good news for fans of holes. There have also been a couple of minor adjustments to SMGs, so if you've been waiting to add the MP7 or MP5-SD to your loadout, now is your time.[/p][p]Speaking of which, it's time to start working toward your Season Four Medal. As before, the color of your medal will correspond to the highest CS Rating achieved during the season, and the bars will reflect your total wins, with one bar for every 25 (up to five bars). To be eligible for a medal, you'll need an account in good standing, 25 Premier match wins, and an active CSR at the end of the season.    [/p][p][/p][h3]Community Maps[/h3][p]With the new season comes a new set of community maps.  From the winding paths of Stronghold to the active volcano of Sanctum, each map brings a ton of character and gameplay ideas to the table. Stronghold, Alpine, and Warren can be found in Competitive, Casual, and Deathmatch modes, while Poseidon and Sanctum are available in Wingman.[/p][p] [video webm=\"https://clan.fastly.steamstatic.com/images/3381077/5c80b118e9bb628087760377334158adcbff6c7c.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/5190ebeae165617fed0f4a3fce55d72ae0a2e2b2.mp4\" poster=\"\" autoplay=\"true\" controls=\"false\"][/video][/p][p][/p][h3]Weekly Care Package[/h3][p]Today we are introducing two new collections to your weekly care package. One has color and the other one does not. We'll let you figure out which is which.[/p][p][img]https://clan.fastly.steamstatic.com/images/3381077/71124998b180a9b98013e70b93192e9c49529402.png[/img][img]https://clan.fastly.steamstatic.com/images/3381077/2b8dbbc66c017da998351eed084cfcd2b3ec78b2.png[/img][/p][h3]LTD Edition[/h3][p]The armory also has a new entry--the AK-47 | Aphrodite. With mother-of-pearl accents and amber patina, this entry varies in both wear and pattern:[/p][p][video webm=\"https://clan.fastly.steamstatic.com/images/3381077/69f1417681f0edec82bb950e836326ae48b915a7.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/c1e1e70aa3180a34d2ceb69e9a51131a5b2a1664.mp4\" poster=\"\" autoplay=\"true\" controls=\"false\"][/video][/p]",
         "title_cn": "第四季",
-        "contents_cn": "[img]https://clan.fastly.steamstatic.com/images/3381077/cacb757bc3e9944ba4c827d2c5dc1751ab5400fa.png[/img][p]Premier 第四季现已推出，它带来了大量社区内容、游戏内物品、游戏调整和错误修复！  [/p][p]阿努比斯在短暂的假期后回归，并进行了一些游戏玩法调整。发行说明中有完整的故事，但我们只能说这对于球洞爱好者来说是个好消息。 SMG 也进行了一些小调整，所以如果您一直在等待将 MP7 或 MP5-SD 添加到您的装备中，那么现在就是您的时候了。[/p][p]说到这里，是时候开始为您的第四季奖章而努力了。和以前一样，奖牌的颜色将对应于在赛季中获得的最高 CS 评级，条形将反映您的总胜利，每 25 条有一个条（最多 5 个条）。要获得奖牌的资格，您需要拥有一个信誉良好的帐户、25 场英超比赛胜利，以及在赛季结束时积极的 CSR。    [/p][p][/p][h3]社区地图[/h3][p]新赛季推出了一套新的社区地图。  从要塞的蜿蜒小路到圣所的活火山，每张地图都带来了大量的角色和游戏创意。要塞、高山和沃伦可以在竞争、休闲和死亡竞赛模式中找到，而波塞冬和圣所则可以在僚机模式中找到。[/p][p] [视频webm =“https://clan.fastly.steamstatic.com/images/3381077/5c80b118e9bb628087760377334158adcbff6c7c.webm” mp4=\"https://clan.fastly.steamstatic.com/images/3381077/5190ebeae165617fed0f4a3fce55d72ae0a2e2b2.mp4\" poster=\"\" autoplay=\"true\"controls=\"false\"][/video][/p][p][/p][h3]每周护理套餐[/h3][p]今天我们介绍为您的每周护理包添加两个新系列。一种有颜色，另一种没有。我们会让您弄清楚哪个是其中。[/p][p][img]https://clan.fastly.steamstatic.com/images/3381077/71124998b180a9b98013e70b93192e9c49529402.png[/img ][img]https://clan.fastly.steamstatic.com/images/3381077/2b8dbbc66c017da998351eed084cfcd2b3ec78b2.png[/img][/p][h3]LTD版本[/h3][p]军械库还有一个新条目——AK-47 |阿佛洛狄忒。该条目采用珍珠母贝装饰和琥珀铜绿，磨损和图案各不相同：[/p][p][video webm=\"https://clan.fastly.steamstatic.com/images/3381077/69f1417681f0edec82bb950e836326ae48b915a7.webm\" mp4 =“https://clan.fastly.steamstatic.com/images/3381077/c1e1e70aa3180a34d2ceb69e9a51131a5b2a1664.mp4”海报=“”自动播放=“true”控制=“假”][/video][/p]"
+        "contents_cn": "[img]https://clan.fastly.steamstatic.com/images/3381077/cacb757bc3e9944ba4c827d2c5dc1751ab5400fa.png[/img][p]Premier 第四季现已推出，它带来了大量社区内容、游戏内物品、游戏调整和错误修复！  [/p][p]阿努比斯在短暂的假期后回归，并进行了一些游戏玩法调整。发行说明中有完整的故事，但我们只能说这对于球洞爱好者来说是个好消息。 SMG 也进行了一些小调整，所以如果您一直在等待将 MP7 或 MP5-SD 添加到您的装备中，那么现在就是您的时候了。[/p][p]说到这里，是时候开始为您的第四季奖章而努力了。和以前一样，奖牌的颜色将对应于在赛季中获得的最高 CS 评级，条形将反映您的总胜利，每 25 条有一个条（最多 5 个条）。要获得奖牌的资格，您需要拥有一个信誉良好的帐户、25 场英超比赛胜利，以及在赛季结束时积极的 CSR。    [/p][p][/p][h3]社区地图[/h3][p]新赛季推出了一套新的社区地图。  从要塞的蜿蜒小路到圣所的活火山，每张地图都带来了大量的角色和游戏创意。要塞、高山和沃伦可以在竞争、休闲和死亡竞赛模式中找到，而波塞冬和圣所则可以在僚机模式中找到。[/p][p] [视频webm =“https://clan.fastly.steamstatic.com/images/3381077/5c80b118e9bb628087760377334158adcbff6c7c.webm” mp4=\"https://clan.fastly.steamstatic.com/images/3381077/5190ebeae165617fed0f4a3fce55d72ae0a2e2b2.mp4\" poster=\"\" autoplay=\"true\"controls=\"false\"][/video][/p][p][/p][h3]每周护理套餐[/h3][p]今天我们介绍为您的每周护理包添加两个新系列。一种有颜色，另一种没有。我们会让您弄清楚哪个是其中。[/p][p][img]https://clan.fastly.steamstatic.com/images/3381077/71124998b180a9b98013e70b93192e9c49529402.png[/img ][img]https://clan.fastly.steamstatic.com/images/3381077/2b8dbbc66c017da998351eed084cfcd2b3ec78b2.png[/img][/p][h3]LTD版本[/h3][p]军械库还有一个新条目——AK-47 |阿佛洛狄忒。该条目采用珍珠母贝装饰和琥珀铜绿，磨损和图案各不相同：[/p][p][video webm=\"https://clan.fastly.steamstatic.com/images/3381077/69f1417681f0edec82bb950e836326ae48b915a7.webm\" mp4=\"https://clan.fastly.steamstatic.com/images/3381077/c1e1e70aa3180a34d2ceb69e9a51131a5b2a1664.mp4\"海报=\"\" autoplay=\"true\"controls=\"false\"][/video][/p]"
       },
       {
         "gid": "1822556746157780",
@@ -167,30 +187,7 @@
         "title_en": "The StarLadder Budapest Major Playoffs",
         "contents_en": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png[/img]\nOnly 8 teams remain in the StarLadder Budapest Major, which means the Playoffs are upon us.\n\nFURIA and Team Spirit finished Stage III with perfect 3-0 records. MOUZ, The MongolZ, and Vitality advanced at 3-1, and Falcons, FaZe Clan, and Natus Vincere survived with 3-2 records.\n\nPlayoffs begin tomorrow, December 11th from the 20,000 seat MVM Dome with the following Quarterfinals matchups:\n[list][*][p]Team Spirit vs. Falcons[/p][/*][*][p]Vitality vs. The MongolZ[/p][/*][*][p]MOUZ vs. FaZe Clan[/p][/*][*][p]FURIA vs. Natus Vincere[/p][/*][/list]As the Playoffs get underway, there's still time to support your favorite teams. Team and player stickers are available, with 50% of the proceeds going to the players, teams, and organizations participating in the StarLadder Budapest Major.\n\nAnd don't forget, there's still time to submit picks for the Pick'Em Challenge. All Playoff picks must be submitted prior to the start of the first Playoff match.\n\nGood luck to the 8 remaining teams!",
         "title_cn": "StarLadder 布达佩斯特级锦标赛季后赛",
-        "contents_cn": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png[/img]\nStarLadder 布达佩斯特锦赛只剩下 8 支球队，这意味着季后赛即将到来。\n\nFURIA 和 Team Spirit 以 3-0 的完美战绩结束了第三阶段。 MOUZ、The MongolZ 和 Vitality 以 3-1 晋级，Falcons、FaZe Clan 和 Natus Vincere 以 3-2 的战绩保级。\n\n季后赛将于明天（12 月 11 日）在拥有 20,000 个座位的 MVM Dome 开始，四分之一决赛对阵如下：\n[list][*][p]Team Spirit 对阵 Falcons[/p][/*][*][p]Vitality 对阵 MongolZ[/p][/*][*][p]MOUZ 对阵 FaZe Clan[/p][/*][*][p]FURIA 对阵 Natus Vincere[/p][/*][/list]随着季后赛的进行，还有时间支持你最喜欢的球队。提供战队和选手贴纸，其中 50% 的收益将捐献给参加 StarLadder 布达佩斯特锦赛的选手、战队和组织。\n\n不要忘记，还有时间提交 Pick'Em 挑战赛的选择。所有季后赛选秀权必须在第一场季后赛比赛开始之前提交。\n\n祝剩下的8支队伍好运！"
-      },
-      {
-        "gid": "1818118366183917",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818118366183917",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ RENDERING ][/p][list][*][p]Improved shadow fidelity on view models.[/p][/*][*][p]Added local client icon cache for inventory items.[/p][/*][*][p]Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1765231628,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes",
-          "mod_reviewed",
-          "ModAct_871423085_1765231733_0",
-          "mod_require_rereview"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ RENDERING ][/p][list][*][p]Improved shadow fidelity on view models.[/p][/*][*][p]Added local client icon cache for inventory items.[/p][/*][*][p]Fixed a case that caused a small number of users to receive an erroneous VAC ban. The bans will be removed.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ RENDERING ][/p][list][*][p]提高了视图模型上的阴影保真度。[/p][/*][*][p]添加了库存项目的本地客户端图标缓存。[/p][/*][*][p]修复了导致少数用户收到错误 VAC 禁令的情况。禁令将被删除。[/p][/*][/list]"
+        "contents_cn": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/f7e0b05e3af4f8be1315023957563f3ee4519d6a.png[/img]\nStarLadder 布达佩斯特锦赛只剩下 8 支球队，这意味着季后赛即将来临。\n\nFURIA 和 Team Spirit 以 3-0 的完美战绩结束了第三阶段。 MOUZ、The MongolZ 和 Vitality 以 3-1 晋级，Falcons、FaZe Clan 和 Natus Vincere 以 3-2 的战绩保级。\n\n季后赛将于明天（12 月 11 日）在拥有 20,000 个座位的 MVM Dome 开始，四分之一决赛对阵如下：\n[list][*][p]Team Spirit 对阵 Falcons[/p][/*][*][p]Vitality 对阵 MongolZ[/p][/*][*][p]MOUZ 对阵 FaZe Clan[/p][/*][*][p]FURIA 对阵 Natus Vincere[/p][/*][/list]随着季后赛的进行，还有时间支持你最喜欢的球队。提供战队和选手贴纸，其中 50% 的收益将捐献给参加 StarLadder 布达佩斯特锦赛的选手、战队和组织。\n\n不要忘记，还有时间提交 Pick'Em 挑战赛的选择。所有季后赛选秀权必须在第一场季后赛比赛开始之前提交。\n\n祝剩下的8支队伍好运！"
       }
     ]
   }
