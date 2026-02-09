@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1823825466506792",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1770677957,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ MISC ][/p][list][*][p]本地化代码和文本更改。[/p][/*][/list]"
+      },
+      {
         "gid": "1823825466495240",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466495240",
@@ -177,23 +197,6 @@
         "contents_en": "[p]\\[ MAJOR ][/p][list][*][p]Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality![/p][/*][*][p]Highlight Souvenir Packages can now be acquired for the Playoff matches.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ MAJOR ][/p][list][*][p]冠军亲笔签名胶囊现已开放购买，恭喜团队活力！[/p][/*][*][p]季后赛比赛精彩纪念品包现已开放购买。[/p][/*][/list]"
-      },
-      {
-        "gid": "1818752592130605",
-        "title": "Best of Five in Budapest",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592130605",
-        "is_external_url": true,
-        "author": "COMPLEX",
-        "contents": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png[/img]\nOnly two teams remain in the StarLadder Budapest Major!\n\nTeam Vitality has yet to drop a map in the Playoffs, defeating The MongolZ in the Quarterfinals and Team Spirit in the Semifinals 2-0. \n\nOn the other side of the bracket, FaZe Clan defeated MOUZ in the Quarterfinals and needed all three maps to defeat Natus Vincere in the Semifinals, 2-1, to book their ticket to Sunday's Grand Finals.\n\nTeam Vitality are trying to win back to back Majors, a feat which hasn't been accomplished since 2019. FaZe Clan are trying to win their second Counter-Strike Major after being runners up in 2 of the last 3. \n\nCounter-Strike's first ever best of five Major Grand Finals begins tomorrow, December 14th at 18:00 CET.\n\nAs we enter the final day of the StarLadder Budapest Major, tournament stickers are still available, with 50% of the proceeds going to the players, teams, and participating organizations.\n\nSee you tomorrow for the biggest Major Grand Finals yet!",
-        "feedlabel": "Community Announcements",
-        "date": 1765670126,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "title_en": "Best of Five in Budapest",
-        "contents_en": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png[/img]\nOnly two teams remain in the StarLadder Budapest Major!\n\nTeam Vitality has yet to drop a map in the Playoffs, defeating The MongolZ in the Quarterfinals and Team Spirit in the Semifinals 2-0. \n\nOn the other side of the bracket, FaZe Clan defeated MOUZ in the Quarterfinals and needed all three maps to defeat Natus Vincere in the Semifinals, 2-1, to book their ticket to Sunday's Grand Finals.\n\nTeam Vitality are trying to win back to back Majors, a feat which hasn't been accomplished since 2019. FaZe Clan are trying to win their second Counter-Strike Major after being runners up in 2 of the last 3. \n\nCounter-Strike's first ever best of five Major Grand Finals begins tomorrow, December 14th at 18:00 CET.\n\nAs we enter the final day of the StarLadder Budapest Major, tournament stickers are still available, with 50% of the proceeds going to the players, teams, and participating organizations.\n\nSee you tomorrow for the biggest Major Grand Finals yet!",
-        "title_cn": "布达佩斯五场最佳",
-        "contents_cn": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cbefb5475573c1b9aa9fa52e9ec2eac2bdbf2184.png[/img]\nStarLadder 布达佩斯特锦赛只剩下两支队伍了！\n\nTeam Vitality 在季后赛中尚未丢下一张地图，在四分之一决赛中以 2-0 击败了 MongolZ，在半决赛中以 2-0 击败了 Team Spirit。 \n\n另一方面，FaZe Clan 在四分之一决赛中击败了 MOUZ，并需要全部三张地图才能在半决赛中以 2-1 击败 Natus Vincere，从而预订周日总决赛的门票。\n\nTeam Vitality 正在努力连续赢得Major，这是自 2019 年以来从未完成的壮举。FaZe Clan 在过去 3 场比赛中获得 2 场亚军后，正在努力赢得他们的第二个 Counter-Strike Major。 \n\n《反恐精英》历史上首场五局三胜的大型总决赛将于明天（欧洲中部时间）12 月 14 日 18:00 拉开帷幕。\n\n当我们进入 StarLadder 布达佩斯特锦赛的最后一天时，锦标赛贴纸仍然可用，其中 50% 的收益将捐给球员、球队和参赛组织。\n\n明天见，观看迄今为止规模最大的特锦赛总决赛！"
       }
     ]
   }
