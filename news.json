@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1825093633195926",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Overpass[/p][list][*][p]Fixed the Party balloons.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1771889921,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Overpass[/p][list][*][p]Fixed the Party balloons.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ MISC ][/p][list][*][p]缓解了主要影响使用最新 Intel CPU 的 Windows 10 用户的性能问题。[/p][/*][*][p]修复了“删除项目”库存选项不起作用的情况。[/p][/*][*][p]修复了在 AMD 上使用机械瞄准器时出现视觉损坏的情况GPU。[/p][/*][*][p]允许更改控制台变量插件的扩展列表。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]立交桥[/p][list][*][p]修复了派对气球。[/p][/*][/list]"
+      },
+      {
         "gid": "1823825466506792",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792",
@@ -177,26 +197,6 @@
         "contents_en": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img]\nThe StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall.\n\nComing into the Grand Finals against FaZe Clan, Team Vitality had not lost a map in the Playoffs, defeating The MongolZ and Team Spirit 2-0.\n\nAfter losing the opening map, Team Vitality won the next three on Dust II, Inferno, and Overpass to take the series 3-1 in Counter-Strike's first ever best of five Grand Finals.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/930445c49b4eee2baadf7f70bf746aae04c1f38b.png[/img]\nToday we are releasing the Budapest Champions Autograph Capsule, featuring Paper, Embroidered, Holo, and Gold stickers autographed by one of the players from Team Vitality.\n\nCongratulations again to Team Vitality, champions of the StarLadder Budapest Major and both Major Championships in 2025!",
         "title_cn": "蜜蜂年",
         "contents_cn": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img]\nStarLadder 布达佩斯特锦赛为 Team Vitality 令人难以置信的 2025 年画上了圆满的句号，他们连续第二次赢得特锦赛冠军，并获得该组织的第三次总冠军。\n\n进入总决赛对阵 FaZe Clan 时，Team Vitality 在季后赛中没有丢过一张地图，以 2-0 击败了 MongolZ 和 Team Spirit。\n\n在输掉首张地图后，Team Vitality 在《Dust II》、《Inferno》和《Overpass》中赢得了接下来的三张地图，并以 3-1 拿下了《反恐精英》五局总决赛中的首场三胜。\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/930445c49b4eee2baadf7f70bf746aae04c1f38b.png[/img]\n今天，我们发布了布达佩斯冠军亲笔签名胶囊，其中包括纸质、刺绣、全息和金色贴纸，由活力队的一名球员亲笔签名。\n\n再次祝贺 Team Vitality 获得 StarLadder 布达佩斯特锦赛冠军以及 2025 年两项特锦赛冠军！"
-      },
-      {
-        "gid": "1819386365092527",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092527",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ MAJOR ][/p][list][*][p]Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality![/p][/*][*][p]Highlight Souvenir Packages can now be acquired for the Playoff matches.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1766092733,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MAJOR ][/p][list][*][p]Champions Autographs Capsule is now available for purchase, congratulations to Team Vitality![/p][/*][*][p]Highlight Souvenir Packages can now be acquired for the Playoff matches.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ MAJOR ][/p][list][*][p]冠军亲笔签名胶囊现已开放购买，恭喜团队活力！[/p][/*][*][p]季后赛比赛精彩纪念品包现已开放购买。[/p][/*][/list]"
       }
     ]
   }
