@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1825727806706141",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806706141",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDamage[/p][list][*][p]Called after all damage properties have been calculated, just before armor and health are modified[/p][/*][*][p]Replaces Instance.OnBeforePlayerDamage[/p][/*][*][p]Includes hitgroup in event data[/p][/*][/list][/*][*][p]Added hitgroup to OnPlayerDamage event data[/p][/*][*][p]Added CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]Added CSPlayerPawn.IsInputPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]Added enum CSInputs[/p][/*][*][p]Fixed bug where CSDamageTypes was exported under the name CSDamageType[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Map guides for de_ancient can now be used on de_ancient_night and vice versa.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1772060032,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDamage[/p][list][*][p]Called after all damage properties have been calculated, just before armor and health are modified[/p][/*][*][p]Replaces Instance.OnBeforePlayerDamage[/p][/*][*][p]Includes hitgroup in event data[/p][/*][/list][/*][*][p]Added hitgroup to OnPlayerDamage event data[/p][/*][*][p]Added CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]Added CSPlayerPawn.IsInputPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]Added enum CSInputs[/p][/*][*][p]Fixed bug where CSDamageTypes was exported under the name CSDamageType[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Map guides for de_ancient can now be used on de_ancient_night and vice versa.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ 地图脚本 ][/p][list][*][p]添加了 Instance.SetSaveData[/p][/*][*][p]添加了 Instance.GetSaveData[/p][list][*][p]创意工坊地图最多可以写入 1MB 的保存数据。[/p][/*][*][p]创意工坊保存利用 Steam Cloud 并持久保存安装。[/p][/*][*][p]可以使用 sv_workshop_map_save_data_max_filesize_mb 配置保存数据大小限制。[/p][/*][/list][/*][*][p]添加 Instance.OnModifyPlayerDamage[/p][list][*][p]在计算所有伤害属性后、在护甲和生命值计算之前调用已修改[/p][/*][*][p]替换Instance.OnBeforePlayerDamage[/p][/*][*][p]在事件数据中包含hitgroup[/p][/*][/list][/*][*][p]将hitgroup添加到OnPlayerDamage事件数据中[/p][/*][*][p]已添加CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]添加了 CSPlayerPawn.IsInputPressed[/p][/*][*][p]添加了 CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]添加了 CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]添加了枚举CSInputs[/p][/*][*][p]修复了以 CSDamageType 名称导出 CSDamageTypes 的错误[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]de_ancient 的地图指南现在可以在 de_ancient_night 上使用，反之亦然。[/p][/*][/list]"
+      },
+      {
         "gid": "1825093633195926",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926",
@@ -99,7 +119,7 @@
         "title_en": "Counter-Strike 2 Update",
         "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Molotov/incendiary grenades that bounce off an enemy player have a one-time fuse extension added to prevent them from air-bursting when their has-never-hit-the-world timer elapses.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Fixed a performance issue when running CS2 without a sound device.[/p][/*][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed broken cl_ent_bbox visualization for some classes of rigid dynamic entities.[/p][/*][*][p]Various stability improvements.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Nuke[/p][list][*][p]Adjusted hanging hard hat model render bounds to prevent shadow popping when model exited the view frustum.[/p][/*][/list][p]Warden[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3256988376\"]Update Notes[/url])[/p][/*][/list][p]Sanctum[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]Update Notes[/url])[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ 游戏玩法 ][/p][list][*][p]从敌方玩家身上弹开的莫洛托夫/燃烧弹会添加一次性引信扩展，以防止它们在从未击中世界计时器结束时发生空气爆炸。[/p][/*][/list][p][/p][p]\\[ 声音][/p][list][*][p]修复了在没有声音设备的情况下运行 CS2 时的性能问题。[/p][/*][*][p]各种刀具声音调整。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]修复了某些刚性动态类别的 cl_ent_bbox 可视化损坏问题实体。[/p][/*][*][p]各种稳定性改进。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Nuke[/p][list][*][p]调整悬挂安全帽模型渲染边界，以防止模型退出视图时阴影弹出frustum.[/p][/*][/list][p]Warden[/p][list][*][p]从社区研讨会更新到最新版本（[url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3256988376\"]更新注释[/url]）[/p][/*][/list][p]Sanctum[/p][list][*][p]已更新至社区研讨会的最新版本（[url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]更新注释[/url]）[/p][/*][/list]"
+        "contents_cn": "[p]\\[ 游戏玩法 ][/p][list][*][p]从敌方玩家身上反弹的莫洛托夫/燃烧弹添加了一次性引信扩展，以防止它们在从未击中世界计时器结束时发生空气爆炸。[/p][/*][/list][p][/p][p]\\[ 声音][/p][list][*][p]修复了在没有声音设备的情况下运行 CS2 时的性能问题。[/p][/*][*][p]各种刀具声音调整。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]修复了某些刚性动态类别的 cl_ent_bbox 可视化损坏问题实体。[/p][/*][*][p]各种稳定性改进。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Nuke[/p][list][*][p]调整悬挂安全帽模型渲染边界，以防止模型退出视图时阴影弹出frustum.[/p][/*][/list][p]Warden[/p][list][*][p]从社区研讨会更新到最新版本（[url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3256988376\"]更新注释[/url]）[/p][/*][/list][p]Sanctum[/p][list][*][p]已更新至社区研讨会的最新版本（[url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]更新注释[/url]）[/p][/*][/list]"
       },
       {
         "gid": "1822556746160428",
@@ -177,23 +197,6 @@
         "contents_en": "[img]https://clan.fastly.steamstatic.com/images/3381077/df9c5d47c8dd9e4d9ecc4a6d9a53f4fb1ea2666c.png[/img]\n\nStarting January 1, 2026, the newest Service Medal will be available in-game.\n\nReach Global General (Rank 40) to reset your Profile Rank and earn (or upgrade) your 2026 Service Medal.\n\nGood luck and have fun!",
         "title_cn": "2026 服务奖章",
         "contents_cn": "[img]https://clan.fastly.steamstatic.com/images/3381077/df9c5d47c8dd9e4d9ecc4a6d9a53f4fb1ea2666c.png[/img]\n\n从 2026 年 1 月 1 日开始，最新的服役勋章将在游戏中提供。\n\n达到全球将军（排名 40）以重置您的个人资料排名并赢得（或升级）您的 2026 年服役勋章。\n\n祝你好运，玩得开心！"
-      },
-      {
-        "gid": "1819386365092528",
-        "title": "The Year of the Bees",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365092528",
-        "is_external_url": true,
-        "author": "Mr. Mario Kart",
-        "contents": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img]\nThe StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall.\n\nComing into the Grand Finals against FaZe Clan, Team Vitality had not lost a map in the Playoffs, defeating The MongolZ and Team Spirit 2-0.\n\nAfter losing the opening map, Team Vitality won the next three on Dust II, Inferno, and Overpass to take the series 3-1 in Counter-Strike's first ever best of five Grand Finals.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/930445c49b4eee2baadf7f70bf746aae04c1f38b.png[/img]\nToday we are releasing the Budapest Champions Autograph Capsule, featuring Paper, Embroidered, Holo, and Gold stickers autographed by one of the players from Team Vitality.\n\nCongratulations again to Team Vitality, champions of the StarLadder Budapest Major and both Major Championships in 2025!",
-        "feedlabel": "Community Announcements",
-        "date": 1766092742,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "title_en": "The Year of the Bees",
-        "contents_en": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img]\nThe StarLadder Budapest Major capped off an incredible 2025 for Team Vitality, who won their second consecutive Major Championship and the organization's third overall.\n\nComing into the Grand Finals against FaZe Clan, Team Vitality had not lost a map in the Playoffs, defeating The MongolZ and Team Spirit 2-0.\n\nAfter losing the opening map, Team Vitality won the next three on Dust II, Inferno, and Overpass to take the series 3-1 in Counter-Strike's first ever best of five Grand Finals.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/930445c49b4eee2baadf7f70bf746aae04c1f38b.png[/img]\nToday we are releasing the Budapest Champions Autograph Capsule, featuring Paper, Embroidered, Holo, and Gold stickers autographed by one of the players from Team Vitality.\n\nCongratulations again to Team Vitality, champions of the StarLadder Budapest Major and both Major Championships in 2025!",
-        "title_cn": "蜜蜂年",
-        "contents_cn": "[img]https://clan.cloudflare.steamstatic.com/images//3381077/cff2d6ad3d985118be7d5354eef3edf50be1c76f.jpg[/img]\nStarLadder 布达佩斯特锦赛为 Team Vitality 令人难以置信的 2025 年画上了圆满的句号，他们连续第二次赢得特锦赛冠军，并获得该组织的第三次总冠军。\n\n进入总决赛对阵 FaZe Clan 时，Team Vitality 在季后赛中没有丢过一张地图，以 2-0 击败了 MongolZ 和 Team Spirit。\n\n在输掉首张地图后，Team Vitality 在《Dust II》、《Inferno》和《Overpass》中赢得了接下来的三张地图，并以 3-1 拿下了《反恐精英》五局总决赛中的首场三胜。\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/930445c49b4eee2baadf7f70bf746aae04c1f38b.png[/img]\n今天，我们发布了布达佩斯冠军亲笔签名胶囊，其中包括纸质、刺绣、全息和金色贴纸，由活力队的一名球员亲笔签名。\n\n再次祝贺 Team Vitality 获得 StarLadder 布达佩斯特锦赛冠军以及 2025 年两项特锦赛冠军！"
       }
     ]
   }
