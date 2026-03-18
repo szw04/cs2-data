@@ -2,6 +2,43 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1827626365751572",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751572",
+        "is_external_url": true,
+        "author": "COMPLEX",
+        "contents": "[ GAMEPLAY ][list]\n[*]Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves.\n[*]Reserve ammunition is now represented either as number of magazines, shells, or bullets, depending on the weapon.\n[*]The fill-level of the current weapon is now displayed below the ammo count. \n[*]Tuned reserve magazine counts per-weapon.[/list]\n[ MAP GUIDES ][list]\n[*]Limited map guides are now available in Competitive and Retakes (first 5 rounds of the half, 30 node max).\n[*]sv_allow_annotations_access_level supports 3 values: 0 – disabled. 1 – limited view. 2 – full and editable. \n[*]sv_annotation_limits_max_rounds_per_half (default 5) determines how many rounds into the half guides are allowed. -1 for unlimited.\n[*]Minimal starter map guides have been added for all Active Duty maps.[/list]\n[ WORKSHOP MAPS ]\n[list]\n[*]Friends playing a Practice or Workshop map can be joined through the friends menu if they have Open Party set.[/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1773873327,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[ GAMEPLAY ][list]\n[*]Reloading has been refactored to encourage more careful consideration of the use of ammo. When you reload a magazine-fed weapon, all remaining ammo in the magazine is discarded and a new, full magazine is taken from the reserves.\n[*]Reserve ammunition is now represented either as number of magazines, shells, or bullets, depending on the weapon.\n[*]The fill-level of the current weapon is now displayed below the ammo count. \n[*]Tuned reserve magazine counts per-weapon.[/list]\n[ MAP GUIDES ][list]\n[*]Limited map guides are now available in Competitive and Retakes (first 5 rounds of the half, 30 node max).\n[*]sv_allow_annotations_access_level supports 3 values: 0 – disabled. 1 – limited view. 2 – full and editable. \n[*]sv_annotation_limits_max_rounds_per_half (default 5) determines how many rounds into the half guides are allowed. -1 for unlimited.\n[*]Minimal starter map guides have been added for all Active Duty maps.[/list]\n[ WORKSHOP MAPS ]\n[list]\n[*]Friends playing a Practice or Workshop map can be joined through the friends menu if they have Open Party set.[/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[ 游戏玩法 ][ 列表 ]\n[*]重装已被重构，以鼓励更仔细地考虑弹药的使用。当您重新装载弹匣供弹的武器时，弹匣中所有剩余的弹药都会被丢弃，并从储备中取出一个新的、装满的弹匣。\n[*]储备弹药现在以弹匣、炮弹或子弹的数量表示，具体取决于武器。\n[*]当前武器的填充水平现在显示在弹药数下方。 \n[*]调整了每种武器的储备弹匣数量。[/list]\n[ 地图指南 ][ 列表 ]\n[*]现在在竞技赛和重考赛中提供有限的地图指南（半场前 5 轮，最多 30 个节点）。\n[*]sv_allow_annotations_access_level 支持 3 个值：0 – 禁用。 1 – 视野有限。 2 – 完整且可编辑。 \n[*]sv_annotation_limits_max_rounds_per_half（默认为 5）决定允许多少轮进入半指南。 -1 表示无限制。\n[*]已为所有现役地图添加了最小入门地图指南。[/list]\n[ 车间地图 ]\n[列表]\n[*]玩练习或创意工坊地图的朋友如果设置了开放派对，可以通过朋友菜单加入。[/list]"
+      },
+      {
+        "gid": "1827626365751571",
+        "title": "Guns, Guides, and Games",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751571",
+        "is_external_url": true,
+        "author": "Piggles ULTRAPRO",
+        "contents": "[p]From reloading to custom games, today's update will give you plenty to think about.\n[/p][h3]Reload[/h3][p][img src=\"https://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png\"][/img]When you reload in CS2, the leftover ammo in your magazine is dumped back into an essentially endless reserve supply. And so the decision to reload has never offered significant trade-offs—in a safe position with enough time, you might reload after firing a single bullet, or half a mag, or after firing down to empty, and the rest of the round would be unaffected. \n\nWe think the decision to reload should have higher stakes, so in today's update reloading has been redesigned. Now, when you reload, you'll drop the used magazine and discard all of its remaining ammo. Instead of 'topping off' your weapon with a few bullets, a new full magazine will be taken from the reserves whenever you reload. \n\nHow many reserve mags will each weapon have? Most have gotten a three clips fill-up, but some weapons will have less to reward efficiency and precision, or more to encourage spamming through walls and smokes. Keep an eye on your reserve supply!\n\n[/p][h3]Map Guides in Competitive Matches[/h3][p]\nWe get it. You [i]could[/i] learn some smokes offline, but who has the time? \n\nTo help you pick up some new tricks, map guides can now be used during the first five rounds of the half in your competitive matches. Competitive map guides are more limited than the ones you use offline, but should be enough to give you a few reminders.\n\nYou can activate a guide in the pause menu, and to get you started there are official map guides available for Active Duty maps. But if you're looking for something more specific, you can subscribe to guides on the Steam Community Workshop.\n\n[/p][h3]Join Friends in Custom Games[/h3][p][img src=\"{STEAM_CLAN_IMAGE}/3381077/12cbcda636bfce8e15f9df254d0725feb0261abe.png\"][/img]Over the past several months, the CS community has been hard at work building custom game modes using special scripting tools. Now, you can join your friends in the fun!\n\nWhenever you're playing a custom game, whether on a community server or hosted locally, your friends will be able to join you directly from the Friends list (as long as the server allows it). \n\nWant to set up your own custom game? Head over to your Workshop Maps tab in the Play menu, and make sure to turn on \"Open Party.\" Now, when you start playing your workshop map you'll host a game on your machine, and your friends will be able to join.\n\nSo head to the Steam Community Workshop, subscribe to some maps, and try something new![/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1773873319,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "title_en": "Guns, Guides, and Games",
+        "contents_en": "[p]From reloading to custom games, today's update will give you plenty to think about.\n[/p][h3]Reload[/h3][p][img src=\"https://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png\"][/img]When you reload in CS2, the leftover ammo in your magazine is dumped back into an essentially endless reserve supply. And so the decision to reload has never offered significant trade-offs—in a safe position with enough time, you might reload after firing a single bullet, or half a mag, or after firing down to empty, and the rest of the round would be unaffected. \n\nWe think the decision to reload should have higher stakes, so in today's update reloading has been redesigned. Now, when you reload, you'll drop the used magazine and discard all of its remaining ammo. Instead of 'topping off' your weapon with a few bullets, a new full magazine will be taken from the reserves whenever you reload. \n\nHow many reserve mags will each weapon have? Most have gotten a three clips fill-up, but some weapons will have less to reward efficiency and precision, or more to encourage spamming through walls and smokes. Keep an eye on your reserve supply!\n\n[/p][h3]Map Guides in Competitive Matches[/h3][p]\nWe get it. You [i]could[/i] learn some smokes offline, but who has the time? \n\nTo help you pick up some new tricks, map guides can now be used during the first five rounds of the half in your competitive matches. Competitive map guides are more limited than the ones you use offline, but should be enough to give you a few reminders.\n\nYou can activate a guide in the pause menu, and to get you started there are official map guides available for Active Duty maps. But if you're looking for something more specific, you can subscribe to guides on the Steam Community Workshop.\n\n[/p][h3]Join Friends in Custom Games[/h3][p][img src=\"{STEAM_CLAN_IMAGE}/3381077/12cbcda636bfce8e15f9df254d0725feb0261abe.png\"][/img]Over the past several months, the CS community has been hard at work building custom game modes using special scripting tools. Now, you can join your friends in the fun!\n\nWhenever you're playing a custom game, whether on a community server or hosted locally, your friends will be able to join you directly from the Friends list (as long as the server allows it). \n\nWant to set up your own custom game? Head over to your Workshop Maps tab in the Play menu, and make sure to turn on \"Open Party.\" Now, when you start playing your workshop map you'll host a game on your machine, and your friends will be able to join.\n\nSo head to the Steam Community Workshop, subscribe to some maps, and try something new![/p]",
+        "title_cn": "枪支、指南和游戏",
+        "contents_cn": "[p]从重新加载到自定义游戏，今天的更新将给你带来很多思考。\n[/p][h3]重新装弹[/h3][p][img src=\"https://clan.akamai.steamstatic.com/images/3381077/5dd914dd4a8901aa52b0075f683a6d0e3538d55b.png\"][/img]当您在CS2中重新装弹时，弹匣中的剩余弹药将被转储回到基本上无限的储备供应。因此，重新装弹的决定从来没有带来重大的权衡——在一个安全的位置，有足够的时间，你可能会在发射一颗子弹或半弹匣后重新装弹，或者在射击到空后重新装弹，而该轮的其余部分将不受影响。 \n\n我们认为重新加载的决定应该具有更高的风险，因此在今天的更新中重新设计了重新加载。现在，当您重新装弹时，您将丢弃用过的弹匣并丢弃所有剩余的弹药。每当您重新装弹时，都会从储备中取出一个新的完整弹匣，而不是用几颗子弹“补充”您的武器。 \n\n每件武器有多少备用弹匣？大多数武器都配备了三个弹夹，但有些武器的弹夹填充量较少，以奖励效率和精确度，或者更多，以鼓励穿过墙壁和烟雾进行垃圾邮件。请留意您的储备供应！\n\n[/p][h3]竞技比赛中的地图指南[/h3][p]\n我们明白了。你[i]可以[/i]离线学习一些抽烟的知识，但是谁有时间呢？ \n\n为了帮助您掌握一些新技巧，现在可以在竞技比赛的前五轮比赛中使用地图指南。竞争性地图指南比您离线使用的地图指南更有限，但应该足以给您一些提醒。\n\n您可以在暂停菜单中激活指南，为了帮助您入门，有适用于现役地图的官方地图指南。但如果您正在寻找更具体的内容，您可以订阅 Steam 社区研讨会上的指南。\n\n[/p][h3]在自定义游戏中加入好友[/h3][p][img src=\"{STEAM_CLAN_IMAGE}/3381077/12cbcda636bfce8e15f9df254d0725feb0261abe.png\"][/img]在过去的几个月里，CS 社区一直在努力使用特殊的脚本工具构建自定义游戏模式。现在，你可以和你的朋友一起享受乐趣了！\n\n每当您玩自定义游戏时，无论是在社区服务器上还是在本地托管，您的朋友都可以直接从好友列表中加入您（只要服务器允许）。 \n\n想要设置您自己的自定义游戏吗？前往“播放”菜单中的“创意工坊地图”选项卡，并确保打开“开放派对”。现在，当您开始玩工坊地图时，您将在您的计算机上托管游戏，并且您的朋友将能够加入。\n\n因此，前往 Steam 社区创意工坊，订阅一些地图，并尝试新的东西！[/p]"
+      },
+      {
         "gid": "1826992588602521",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588602521",
@@ -154,46 +191,6 @@
         "contents_en": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ MISC ][/p][list][*][p]本地化代码和文本更改。[/p][/*][/list]"
-      },
-      {
-        "gid": "1823825466495240",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466495240",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ MISC ][/p][list][*][p]Fixed a case where switching firstperson spectator targets would cause viewmodel animations to reset.[/p][/*][*][p]Fixed a case where physics calculations far from the origin were causing performance issues.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Anubis[/p][list][*][p]Adjusted player clipping around new drop.[/p][/*][*][p]Adjusted grenade clipping around connector (e-box :P) hole and old drop.[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]Update Notes[/url])[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1770248033,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MISC ][/p][list][*][p]Fixed a case where switching firstperson spectator targets would cause viewmodel animations to reset.[/p][/*][*][p]Fixed a case where physics calculations far from the origin were causing performance issues.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Anubis[/p][list][*][p]Adjusted player clipping around new drop.[/p][/*][*][p]Adjusted grenade clipping around connector (e-box :P) hole and old drop.[/p][/*][/list][p]Poseidon[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]Update Notes[/url])[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ MISC ][/p][list][*][p]修复了切换第一人称观众目标会导致视图模型动画重置的情况。[/p][/*][*][p]修复了远离原点的物理计算导致性能问题的情况。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]阿努比斯[/p][list][*][p]调整了新掉落周围的玩家剪辑。[/p][/*][*][p]调整了连接器（e-box :P）孔和旧掉落周围的手榴弹剪辑。[/p][/*][/list][p]波塞冬[/p][list][*][p]已更新至社区研讨会的最新版本([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3522144043\"]更新说明[/url])[/p][/*][/list]"
-      },
-      {
-        "gid": "1823191198603765",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198603765",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Performance optimizations for exploding chickens.[/p][/*][*][p]Fixed a map scripting bug where Entity.SetOwner wasn't accepting undefined.[/p][/*][*][p]Added a method for community maps to save modified user settings. Running 'host_writeconfig_with_prompt' will prompt the user for permission to save. If accepted, some of the modified settings (radar, viewmodel, safezones, etc) will be kept after the map exits. [/p][/*][*][p]Community maps are now restricted to a smaller list of allowed console commands. Use -disable_workshop_command_filtering to disable this filtering.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Stronghold[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554\"]Update Notes[/url])[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1769732256,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Damage from HE grenades that explode mid-air near the ground will no longer be calculated as if they exploded on the ground.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Various knife sound adjustments.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Performance optimizations for exploding chickens.[/p][/*][*][p]Fixed a map scripting bug where Entity.SetOwner wasn't accepting undefined.[/p][/*][*][p]Added a method for community maps to save modified user settings. Running 'host_writeconfig_with_prompt' will prompt the user for permission to save. If accepted, some of the modified settings (radar, viewmodel, safezones, etc) will be kept after the map exits. [/p][/*][*][p]Community maps are now restricted to a smaller list of allowed console commands. Use -disable_workshop_command_filtering to disable this filtering.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Stronghold[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554\"]Update Notes[/url])[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ 游戏玩法 ][/p][list][*][p]在地面附近的半空中爆炸的高爆手榴弹造成的伤害将不再像在地面上爆炸一样计算。[/p][/*][/list][p][/p][p]\\[ 声音 ][/p][list][*][p]各种刀声调整。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]爆炸鸡的性能优化。[/p][/*][*][p]修复了 Entity.SetOwner 不接受未定义的地图脚本错误。[/p][/*][*][p]添加了社区地图保存修改用户的方法设置。运行“host_writeconfig_with_prompt”将提示用户是否有权保存。如果接受，一些修改的设置（雷达、视图模型、安全区等）将在地图退出后保留。 [/p][/*][*][p]社区地图现在仅限于允许的控制台命令的较小列表。使用 -disable_workshop_command_filtering 禁用此过滤。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Stronghold[/p][list][*][p]已更新至社区研讨会的最新版本([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3477094554\"]更新说明[/url])[/p][/*][/list]"
       }
     ]
   }
