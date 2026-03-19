@@ -2,6 +2,23 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1827626365752526",
+        "title": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1827626365752526",
+        "is_external_url": true,
+        "author": "",
+        "contents": "Possibly one of the most controversial updates for the Counter-Strike series as a whole, the latest Counter-Strike 2 update brings major changes from Valve.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2143105576id28682gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/03/counter-strike-2-gets-a-major-update-with-reload-changes-custom-game-modes/</p>",
+        "feedlabel": "GamingOnLinux",
+        "date": 1773912675,
+        "feedname": "GamingOnLinux",
+        "feed_type": 0,
+        "appid": 730,
+        "title_en": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
+        "contents_en": "Possibly one of the most controversial updates for the Counter-Strike series as a whole, the latest Counter-Strike 2 update brings major changes from Valve.<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2143105576id28682gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/03/counter-strike-2-gets-a-major-update-with-reload-changes-custom-game-modes/</p>",
+        "title_cn": "Counter-Strike 2 获得重大更新，包括重新加载更改、自定义游戏模式",
+        "contents_cn": "最新的《反恐精英 2》更新可能是整个《反恐精英》系列中最具争议的更新之一，它带来了 Valve 的重大更改。<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/2143105576id28682gol.jpg\" alt /></p><p>在此处阅读完整文章： https://www.gamingonlinux.com/2026/03/counter-strike-2-gets-a-major-update-with-reload-changes-custom-game-modes/</p>"
+      },
+      {
         "gid": "1827626365751572",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365751572",
@@ -176,26 +193,6 @@
         "contents_en": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Overpass[/p][list][*][p]Fixed the Party balloons.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ MISC ][/p][list][*][p]缓解了主要影响使用最新 Intel CPU 的 Windows 10 用户的性能问题。[/p][/*][*][p]修复了“删除项目”库存选项不起作用的情况。[/p][/*][*][p]修复了在 AMD 上使用机械瞄准器时出现视觉损坏的情况GPU。[/p][/*][*][p]允许更改控制台变量插件的扩展列表。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]立交桥[/p][list][*][p]修复了派对气球。[/p][/*][/list]"
-      },
-      {
-        "gid": "1823825466506792",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466506792",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1770677957,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MISC ][/p][list][*][p]Localization code and text changes.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ MISC ][/p][list][*][p]本地化代码和文本更改。[/p][/*][/list]"
       }
     ]
   }
