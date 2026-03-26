@@ -2,23 +2,6 @@
   "appnews": {
     "newsitems": [
       {
-        "gid": "1827626365752996",
-        "title": "Valve say Counter-Strike 2's reloading needed \"higher stakes\", so you now dump all the ammo left in a clip when you reload early",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1827626365752996",
-        "is_external_url": true,
-        "author": "",
-        "contents": "<img src=\"https://assetsio.gnwcdn.com/counter-strike-2-reload-change-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Bang. 29 bullets left. Bang, bang, bang, rattatata. 14 bullets left. I'd better reload, in case someone comes around that corner and I need a full clip on hand to empty into then. NO. THINK ABOUT THE BULLETS YOU'RE USING, Valve yell from their giant Steam-powered tower looming high above the battlefield. I look at my magazine and notice that following the latest <a href=\"https://www.rockpapershotgun.com/games/counter-strike-two\">Counter-Strike 2</a> update, it now bears a post-it note saying that if I reload early, the leftover ammo will be lost to the mists of time.</p>\n <p><a href=\"https://www.rockpapershotgun.com/valve-say-counter-strike-2s-reloading-needed-higher-stakes-so-you-now-dump-all-the-ammo-left-in-a-clip-when-you-reload-early\">Read more</a></p>",
-        "feedlabel": "Rock, Paper, Shotgun",
-        "date": 1773914385,
-        "feedname": "Rock, Paper, Shotgun",
-        "feed_type": 0,
-        "appid": 730,
-        "title_en": "Valve say Counter-Strike 2's reloading needed \"higher stakes\", so you now dump all the ammo left in a clip when you reload early",
-        "contents_en": "<img src=\"https://assetsio.gnwcdn.com/counter-strike-2-reload-change-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>Bang. 29 bullets left. Bang, bang, bang, rattatata. 14 bullets left. I'd better reload, in case someone comes around that corner and I need a full clip on hand to empty into then. NO. THINK ABOUT THE BULLETS YOU'RE USING, Valve yell from their giant Steam-powered tower looming high above the battlefield. I look at my magazine and notice that following the latest <a href=\"https://www.rockpapershotgun.com/games/counter-strike-two\">Counter-Strike 2</a> update, it now bears a post-it note saying that if I reload early, the leftover ammo will be lost to the mists of time.</p>\n <p><a href=\"https://www.rockpapershotgun.com/valve-say-counter-strike-2s-reloading-needed-higher-stakes-so-you-now-dump-all-the-ammo-left-in-a-clip-when-you-reload-early\">Read more</a></p>",
-        "title_cn": "Valve 表示《反恐精英 2》的重新装弹需要“更高的风险”，因此现在，当您提前重新装弹时，您将倾倒剪辑中剩余的所有弹药",
-        "contents_cn": "<img src=\"https://assetsio.gnwcdn.com/counter-strike-2-reload-change-01.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>爆炸。还剩29发子弹。砰，砰，砰，拉塔塔塔。还剩14发子弹。我最好重新装弹，以防万一有人来到那个角落，而我手头需要一个完整的弹夹来空入那里。不。想想你使用的子弹，Valve 在战场上方高高耸立的巨型蒸汽动力塔中大喊。我看着我的杂志，注意到在最新的<a href=\"https://www.rockpapershotgun.com/games/counter-strike-two\">《反恐精英 2》</a> 更新之后，它现在贴有一张便利贴，上面写着如果我提前重新装弹，剩余的弹药将会消失在时间的迷雾中。</p>\n <p><a href=\"https://www.rockpapershotgun.com/valve-say-counter-strike-2s-reloading-needed-higher-stakes-so-you-now-dump-all-the-ammo-left-in-a-clip-when-you-reload-early\">了解更多</a></p>"
-      },
-      {
         "gid": "1827626365752526",
         "title": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1827626365752526",
@@ -190,6 +173,26 @@
         "contents_en": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDamage[/p][list][*][p]Called after all damage properties have been calculated, just before armor and health are modified[/p][/*][*][p]Replaces Instance.OnBeforePlayerDamage[/p][/*][*][p]Includes hitgroup in event data[/p][/*][/list][/*][*][p]Added hitgroup to OnPlayerDamage event data[/p][/*][*][p]Added CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]Added CSPlayerPawn.IsInputPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]Added enum CSInputs[/p][/*][*][p]Fixed bug where CSDamageTypes was exported under the name CSDamageType[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Map guides for de_ancient can now be used on de_ancient_night and vice versa.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ 地图脚本 ][/p][list][*][p]添加了 Instance.SetSaveData[/p][/*][*][p]添加了 Instance.GetSaveData[/p][list][*][p]创意工坊地图最多可以写入 1MB 的保存数据。[/p][/*][*][p]创意工坊保存利用 Steam Cloud 并持久保存安装。[/p][/*][*][p]可以使用 sv_workshop_map_save_data_max_filesize_mb 配置保存数据大小限制。[/p][/*][/list][/*][*][p]添加 Instance.OnModifyPlayerDamage[/p][list][*][p]在计算所有伤害属性后、在护甲和生命值计算之前调用已修改[/p][/*][*][p]替换Instance.OnBeforePlayerDamage[/p][/*][*][p]在事件数据中包含hitgroup[/p][/*][/list][/*][*][p]将hitgroup添加到OnPlayerDamage事件数据中[/p][/*][*][p]已添加CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]添加了 CSPlayerPawn.IsInputPressed[/p][/*][*][p]添加了 CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]添加了 CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]添加了枚举CSInputs[/p][/*][*][p]修复了以 CSDamageType 名称导出 CSDamageTypes 的错误[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]de_ancient 的地图指南现在可以在 de_ancient_night 上使用，反之亦然。[/p][/*][/list]"
+      },
+      {
+        "gid": "1825093633195926",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Overpass[/p][list][*][p]Fixed the Party balloons.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1771889921,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Overpass[/p][list][*][p]Fixed the Party balloons.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ MISC ][/p][list][*][p]缓解了主要影响使用最新 Intel CPU 的 Windows 10 用户的性能问题。[/p][/*][*][p]修复了“删除项目”库存选项不起作用的情况。[/p][/*][*][p]修复了在 AMD 上使用机械瞄准器时出现视觉损坏的情况GPU。[/p][/*][*][p]允许更改控制台变量插件的扩展列表。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]立交桥[/p][list][*][p]修复了派对气球。[/p][/*][/list]"
       }
     ]
   }
