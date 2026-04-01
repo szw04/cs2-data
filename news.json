@@ -2,6 +2,43 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1828894815556043",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556043",
+        "is_external_url": true,
+        "author": "Piggles ULTRAPRO",
+        "contents": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url] with the subject \"AG2 Beta\".[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][p]The CS2 animation system has been updated to Animgraph 2, which reduces CPU and networking costs associated with animation.[/p][list][*][p]All third-person animations have been re-authored, and in several cases adjusted in response to player feedback.[/p][/*][*][p]Smoothed in-air crouching transitions in first and third-person.[/p][/*][*][p]In support of Animgraph 2, the logic adjusting player height on sloped surfaces has been refactored.[/p][list][*][p]Player height on ramps is now consistent and no longer depends on approach direction.[/p][/*][*][p]As a result of this change, grenade lineups on sloped surfaces may have changed.[/p][/*][/list][/*][/list][p][/p][p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][/list][p][/p][p]\\[ CS SCRIPT ][/p][list][*][p]Added function GetRoundRemainingTime.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ] [/p][list][*][p]Player occlusion now uses a GPU query to prevent players clipping through thin walls when none of their bounding volume is visible.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Mix adjustments to help accentuate jump landing sounds during combat.[/p][/*][*][p]New c4 equip sound.[/p][/*][*][p]Minor adjustments to ambient sound levels.[/p][/*][*][p]Fixed missing ambient sounds on team selection and end of match screens.[/p][/*][*][p]Fixed missing sounds in the main menu UI[/p][/*][*][p]Mix tweaks while taking damage[/p][/*][*][p]Fixed bug where DeathCam music cue was causing volume ducking for too long. [/p][/*][*][p]Vertical occlusion is now more gradual at the edges of transition points in Nuke and Vertigo.[/p][/*][*][p]Various map audio adjustments in Baggage, Shoots, Ancient, Nuke, and Vertigo.[/p][/*][/list][p][/p][p]\\[ KNOWN ISSUES ][/p][list][*][p]In some rare cases, when you turn your head there will be a slight unintended camera shift.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1775082945,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url] with the subject \"AG2 Beta\".[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][p]The CS2 animation system has been updated to Animgraph 2, which reduces CPU and networking costs associated with animation.[/p][list][*][p]All third-person animations have been re-authored, and in several cases adjusted in response to player feedback.[/p][/*][*][p]Smoothed in-air crouching transitions in first and third-person.[/p][/*][*][p]In support of Animgraph 2, the logic adjusting player height on sloped surfaces has been refactored.[/p][list][*][p]Player height on ramps is now consistent and no longer depends on approach direction.[/p][/*][*][p]As a result of this change, grenade lineups on sloped surfaces may have changed.[/p][/*][/list][/*][/list][p][/p][p]\\[ ENGINE ][/p][list][*][p]Updated engine code to the latest version of Source 2.[/p][/*][/list][p][/p][p]\\[ CS SCRIPT ][/p][list][*][p]Added function GetRoundRemainingTime.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ] [/p][list][*][p]Player occlusion now uses a GPU query to prevent players clipping through thin walls when none of their bounding volume is visible.[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Mix adjustments to help accentuate jump landing sounds during combat.[/p][/*][*][p]New c4 equip sound.[/p][/*][*][p]Minor adjustments to ambient sound levels.[/p][/*][*][p]Fixed missing ambient sounds on team selection and end of match screens.[/p][/*][*][p]Fixed missing sounds in the main menu UI[/p][/*][*][p]Mix tweaks while taking damage[/p][/*][*][p]Fixed bug where DeathCam music cue was causing volume ducking for too long. [/p][/*][*][p]Vertical occlusion is now more gradual at the edges of transition points in Nuke and Vertigo.[/p][/*][*][p]Various map audio adjustments in Baggage, Shoots, Ancient, Nuke, and Vertigo.[/p][/*][/list][p][/p][p]\\[ KNOWN ISSUES ][/p][list][*][p]In some rare cases, when you turn your head there will be a slight unintended camera shift.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]animgraph_2_beta 版本中提供了以下更改。要选择加入测试版，请按照此处的说明进行操作：[url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]报告错误或提供有关测试版的反馈构建，请发送电子邮件至 csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url]，主题为“AG2 Beta”。[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][p]CS2 动画系统已更新为 Animgraph 2，这降低了与动画相关的 CPU 和网络成本。[/p][list][*][p]所有第三人称动画已被重新创作，并在某些情况下根据玩家反馈进行了调整。[/p][/*][*][p]第一人称和第三人称中的空中蹲伏过渡变得平滑。[/p][/*][*][p]为了支持 Animgraph 2，调整倾斜表面上的玩家高度的逻辑已被重构。[/p][list][*][p]斜坡上的玩家高度现在是一致的，不再依赖于[/p][/*][*][p]由于此更改，倾斜表面上的手榴弹排列可能会发生变化。[/p][/*][/list][/*][/list][p][/p][p]\\[ ENGINE ][/p][list][*][p]将引擎代码更新为最新版本的源代码2.[/p][/*][/list][p][/p][p]\\[ CS SCRIPT ][/p][list][*][p]添加了函数 GetRoundRemainingTime。[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ] [/p][list][*][p]玩家遮挡现在使用 GPU 查询来防止玩家穿过薄层当没有任何边界体积可见时，墙壁。[/p][/*][/list][p][/p][p]\\[声音 ][/p][list][*][p]混合调整以帮助强调战斗期间的跳跃着陆声音。[/p][/*][*][p]新的 c4 装备声音。[/p][/*][*][p]对环境声音的细微调整[/p][/*][*][p]修复了团队选择和比赛结束屏幕上丢失的环境声音。[/p][/*][*][p]修复了主菜单 UI 中丢失的声音[/p][/*][*][p]受到伤害时进行混合调整[/p][/*][*][p]修复了 DeathCam 音乐提示导致音量闪避时间过长的错误。 [/p][/*][*][p]Nuke 和 Vertigo 中过渡点边缘的垂直遮挡现在更加渐进。[/p][/*][*][p]Baggage、Shoots、Ancient、Nuke 和 Vertigo 中的各种地图音频调整。[/p][/*][/list][p][/p][p]\\[ 已知问题][/p][list][*][p]在极少数情况下，当您转动头部时，相机会出现轻微的意外移动。[/p][/*][/list]"
+      },
+      {
+        "gid": "1828894815556044",
+        "title": "Animgraph 2 Beta",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815556044",
+        "is_external_url": true,
+        "author": "Piggles ULTRAPRO",
+        "contents": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many cases, adjusted in response to player feedback.\n\nIt's time for you to take a look, poke around for bugs, and tell us what you think. To opt into the beta build, follow the instructions [url=https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A]here[/url] and choose the 'animgraph_2_beta' build. Note that you will not be able to connect to Valve servers while you are using the beta build. To report bugs or provide feedback about Animgraph 2, please email csgoteamfeedback@valvesoftware.com with the subject \"AG2 Beta\".",
+        "feedlabel": "Community Announcements",
+        "date": 1775082945,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "title_en": "Animgraph 2 Beta",
+        "contents_en": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\nToday we're shipping a beta build that updates CS2's animation system to Animgraph 2, which reduces the CPU and networking costs associated with animation. Along with the technical work involved in switching to the new system, all third person animations have been re-authored and, in many cases, adjusted in response to player feedback.\n\nIt's time for you to take a look, poke around for bugs, and tell us what you think. To opt into the beta build, follow the instructions [url=https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A]here[/url] and choose the 'animgraph_2_beta' build. Note that you will not be able to connect to Valve servers while you are using the beta build. To report bugs or provide feedback about Animgraph 2, please email csgoteamfeedback@valvesoftware.com with the subject \"AG2 Beta\".",
+        "title_cn": "Animgraph 2 测试版",
+        "contents_cn": "[img]https://clan.akamai.steamstatic.com/images/3381077/3b774ae067b0a4fb8b71d41fdde8d073ac5a064c.png[/img]\n\n今天，我们发布了一个测试版本，将 CS2 的动画系统更新为 Animgraph 2，从而降低了与动画相关的 CPU 和网络成本。除了切换到新系统所涉及的技术工作外，所有第三人称动画都已重新创作，并且在许多情况下根据玩家的反馈进行了调整。\n\n现在是时候让您看看、查找错误并告诉我们您的想法了。要选择 Beta 版本，请按照 [url=https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A]此处[/url] 的说明进行操作，然后选择“animgraph_2_beta”版本。请注意，当您使用测试版时，您将无法连接到 Valve 服务器。要报告错误或提供有关 Animgraph 2 的反馈，请发送电子邮件至 csgoteamfeedback@valvesoftware.com，主题为“AG2 Beta”。"
+      },
+      {
         "gid": "1827626365752526",
         "title": "Counter-Strike 2 gets a major update with reload changes, custom game modes",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1827626365752526",
@@ -153,46 +190,6 @@
         "contents_en": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offensive-csgo-steam-page-900x506.jpg\"/><p><strong>Counter-Strike 2</strong> has largely been a continued triumph for Valve, sitting atop the Steam charts and consistently pulling daily player-count peaks that nearly double the second-placed Dota 2. Yet some of us crave the way things used to be. If that's you, the good news is that predecessor <strong>Counter-Strike: Global Offensive</strong>, most affectionately known as <strong>CS:GO</strong>, is now back on Steam, boasting its own unique page, although you'll need to look closely to find it.</p>\n<p><a href=\"https://www.pcgamesn.com/counter-strike-global-offensive/csgo-steam-page\">Read the rest of the story...</a></p>\n<p>RELATED LINKS:<br />\n<a href=\"https://www.pcgamesn.com/counter-strike-global-offensive/classic-offensive-valve\">Ambitious Counter-Strike mod suspends launch after alleged Valve response</a><br />\n<a href=\"https://www.pcgamesn.com/counter-strike-global-offensive/valve-blocks-mod\">Valve allegedly blocks Counter-Strike mod eight years in the making from Steam</a><br />\n<a href=\"https://www.pcgamesn.com/counter-strike-global-offensive/csgo-ranks-explained-how-to-get-ranked\">CSGO ranks 2024 - CS:GO MM ranking explained</a></p>",
         "title_cn": "CSGO 又回到了 Steam，如果你知道去哪里看的话",
         "contents_cn": "<img width=\"900\" height=\"507\" src=\"https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/03/counter-strike-global-offective-csgo-steam-page-900x506.jpg\"/><p><strong>反恐精英 2</strong> 在很大程度上是 Valve 的持续胜利，在 Steam 排行榜上名列前茅，并且每日销量持续增长玩家人数达到顶峰，几乎是第二名 Dota 2 的两倍。然而，我们中的一些人却渴望回到过去的样子。如果您就是这样，那么好消息是前作《反恐精英：全球攻势》（最被人们亲切地称为《CS:GO》）现在又回到了 Steam，并拥有自己独特的页面，不过您需要仔细观察才能找到它。</p>\n<p><a href=\"https://www.pcgamesn.com/counter-strike-global-offective/csgo-steam-page\">阅读故事的其余部分...</a></p>\n<p>相关链接：<br />\n<a href=\"https://www.pcgamesn.com/counter-strike-global-offective/classic-offective-valve\">雄心勃勃的《反恐精英》模组在据称 Valve 回应后暂停发布</a><br />\n<a href=\"https://www.pcgamesn.com/counter-strike-global-offective/valve-blocks-mod\">Valve 涉嫌阻止 Steam 制作《反恐精英》模组八年</a><br />\n<a href=\"https://www.pcgamesn.com/counter-strike-global-offective/csgo-ranks-explained-how-to-get-ranked\">2024 年 CSGO 排名 - CS:GO MM 排名说明</a></p>"
-      },
-      {
-        "gid": "1825727806706141",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806706141",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDamage[/p][list][*][p]Called after all damage properties have been calculated, just before armor and health are modified[/p][/*][*][p]Replaces Instance.OnBeforePlayerDamage[/p][/*][*][p]Includes hitgroup in event data[/p][/*][/list][/*][*][p]Added hitgroup to OnPlayerDamage event data[/p][/*][*][p]Added CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]Added CSPlayerPawn.IsInputPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]Added enum CSInputs[/p][/*][*][p]Fixed bug where CSDamageTypes was exported under the name CSDamageType[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Map guides for de_ancient can now be used on de_ancient_night and vice versa.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1772060032,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.SetSaveData[/p][/*][*][p]Added Instance.GetSaveData[/p][list][*][p]Workshop maps can write up to 1MB of save data.[/p][/*][*][p]Workshop saves leverage Steam Cloud and persist across installs.[/p][/*][*][p]Save data size limit can be configured with sv_workshop_map_save_data_max_filesize_mb.[/p][/*][/list][/*][*][p]Added Instance.OnModifyPlayerDamage[/p][list][*][p]Called after all damage properties have been calculated, just before armor and health are modified[/p][/*][*][p]Replaces Instance.OnBeforePlayerDamage[/p][/*][*][p]Includes hitgroup in event data[/p][/*][/list][/*][*][p]Added hitgroup to OnPlayerDamage event data[/p][/*][*][p]Added CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]Added CSPlayerPawn.IsInputPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]Added CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]Added enum CSInputs[/p][/*][*][p]Fixed bug where CSDamageTypes was exported under the name CSDamageType[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Map guides for de_ancient can now be used on de_ancient_night and vice versa.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ 地图脚本 ][/p][list][*][p]添加了 Instance.SetSaveData[/p][/*][*][p]添加了 Instance.GetSaveData[/p][list][*][p]创意工坊地图最多可以写入 1MB 的保存数据。[/p][/*][*][p]创意工坊保存利用 Steam Cloud 并持久保存安装。[/p][/*][*][p]可以使用 sv_workshop_map_save_data_max_filesize_mb 配置保存数据大小限制。[/p][/*][/list][/*][*][p]添加 Instance.OnModifyPlayerDamage[/p][list][*][p]在计算所有伤害属性后、在护甲和生命值计算之前调用已修改[/p][/*][*][p]替换Instance.OnBeforePlayerDamage[/p][/*][*][p]在事件数据中包含hitgroup[/p][/*][/list][/*][*][p]将hitgroup添加到OnPlayerDamage事件数据中[/p][/*][*][p]已添加CSDamageFlags.IGNORE_ARMOR[/p][/*][*][p]添加了 CSPlayerPawn.IsInputPressed[/p][/*][*][p]添加了 CSPlayerPawn.WasInputJustPressed[/p][/*][*][p]添加了 CSPlayerPawn.WasInputJustReleased[/p][/*][*][p]添加了枚举CSInputs[/p][/*][*][p]修复了以 CSDamageType 名称导出 CSDamageTypes 的错误[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]de_ancient 的地图指南现在可以在 de_ancient_night 上使用，反之亦然。[/p][/*][/list]"
-      },
-      {
-        "gid": "1825093633195926",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825093633195926",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Overpass[/p][list][*][p]Fixed the Party balloons.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1771889921,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MISC ][/p][list][*][p]Mitigated a performance issue that primarily affected Windows 10 users with recent Intel CPUs.[/p][/*][*][p]Fixed a case where the Delete Item inventory option wasn't working.[/p][/*][*][p]Fixed a case of visual corruption using iron sights on AMD GPUs.[/p][/*][*][p]Expanding list of console variables addons are allowed to change.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Overpass[/p][list][*][p]Fixed the Party balloons.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ MISC ][/p][list][*][p]缓解了主要影响使用最新 Intel CPU 的 Windows 10 用户的性能问题。[/p][/*][*][p]修复了“删除项目”库存选项不起作用的情况。[/p][/*][*][p]修复了在 AMD 上使用机械瞄准器时出现视觉损坏的情况GPU。[/p][/*][*][p]允许更改控制台变量插件的扩展列表。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]立交桥[/p][list][*][p]修复了派对气球。[/p][/*][/list]"
       }
     ]
   }
