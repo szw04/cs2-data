@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1831432155569878",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569878",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed hand popping when counter-strafing with a grenade equipped.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Limit aim punch to 90 degrees.[/p][/*][*][p]Added secondary intersection trace for partially-occluded thirdperson weapons.[/p][/*][*][p]Adjusted ground smoothing at locations where sloped ground surfaces join with step-height transitions.[/p][/*][*][p]Fixed issue that caused defuse-cables from completely occluded players to also be occluded.[/p][/*][*][p]Fixed 'FATAL ERROR: Failed to on-demand compile shader' affecting some older GPUs.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1777589209,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Map-wide clipping fixes and geometry polish.[/p][/*][*][p]Fixed some spots where bomb would be unreachable when dropped.[/p][/*][*][p]Fixed dynamic shadows breaking in some spots.[/p][/*][*][p]Fixed some surface sound types.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed hand popping when counter-strafing with a grenade equipped.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Limit aim punch to 90 degrees.[/p][/*][*][p]Added secondary intersection trace for partially-occluded thirdperson weapons.[/p][/*][*][p]Adjusted ground smoothing at locations where sloped ground surfaces join with step-height transitions.[/p][/*][*][p]Fixed issue that caused defuse-cables from completely occluded players to also be occluded.[/p][/*][*][p]Fixed 'FATAL ERROR: Failed to on-demand compile shader' affecting some older GPUs.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ MAPS ][/p][p]缓存[/p][list][*][p]地图范围内的裁剪修复和几何图形抛光。[/p][/*][*][p]修复了投掷炸弹时无法到达的一些位置。[/p][/*][*][p]修复了某些位置的动态阴影中断问题。[/p][/*][*][p]修复了一些表面声音类型。[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]修复了装备手榴弹进行反扫射时手部弹出的问题。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]将瞄准拳头限制为 90 [/p][/*][*][p]为部分遮挡的第三人称武器添加了辅助交叉轨迹。[/p][/*][*][p]调整了倾斜地面与台阶高度过渡连接的位置处的地面平滑度。[/p][/*][*][p]修复了导致完全遮挡的玩家的引信电缆也被遮挡的问题被遮挡。[/p][/*][*][p]修复了影响某些较旧 GPU 的“致命错误：无法按需编译着色器”。[/p][/*][/list]"
+      },
+      {
         "gid": "1831432155566354",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155566354",
@@ -180,26 +200,6 @@
         "contents_en": "[p]All changes from the animgraph_2_beta build are now live.[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Adjusted general weapon deploy animation logic.[/p][/*][*][p]Fixed issues with transitioning between knife attacks.[/p][/*][*][p]Fixed Elites not shooting in third-person.[/p][/*][/list][p]\n\\[ MISC ][/p][list][*][p]Fixed a bug that allowed silently climbing ladders at run speed by sporadically tapping movement keys.[/p][/*][*][p]Adjusted ground smoothing at locations where sloped ground surfaces transition to flat ground.[/p][/*][*][p]Fixed held grenades inheriting incorrect scale in some circumstances such as after being dropped and picked up.[/p][/*][*][p]Fixed a crash at halftime when transitioning from CT to T.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]animgraph_2_beta 版本中的所有更改现已生效。[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]对视图模型动画进行了细微调整。[/p][/*][*][p]调整了一般武器部署动画逻辑。[/p][/*][*][p]修复了刀之间转换的问题攻击。[/p][/*][*][p]修复精英不以第三人称射击的问题。[/p][/*][/list][p]\n\\[ MISC ][/p][list][*][p]修复了一个错误，该错误允许通过偶尔点击移动键以运行速度悄悄攀登梯子。[/p][/*][*][p]调整了倾斜地面过渡到平坦地面的位置的地面平滑度。[/p][/*][*][p]修复了持有的手榴弹在某些情况下继承不正确的比例，例如在掉落和拾取后up.[/p][/*][*][p]修复了从CT转换到T时中场休息时的崩溃问题。[/p][/*][/list]"
-      },
-      {
-        "gid": "1830163047261361",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047261361",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url] with the subject \"AG2 Beta\".[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed viewmodel and worldmodel HE grenade throw[/p][/*][*][p]Adjusted foot IK when idle[/p][/*][*][p]Minor polish for turn animations when planting[/p][/*][*][p]Fixed fast-weapon switching when holding inspect[/p][/*][*][p]Minor adjustments to viewmodel animations[/p][/*][*][p]Adjusted counter-strafe animation head dip amount[/p][/*][/list][p][/p][p]Please note that the client may produce a fatal error message when attempting to connect to a server running a different build.[/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1776458858,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]The following changes are available in the animgraph_2_beta build. To opt into the beta build, follow the instructions here: [url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]To report bugs or provide feedback about the beta build, please email csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url] with the subject \"AG2 Beta\".[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed viewmodel and worldmodel HE grenade throw[/p][/*][*][p]Adjusted foot IK when idle[/p][/*][*][p]Minor polish for turn animations when planting[/p][/*][*][p]Fixed fast-weapon switching when holding inspect[/p][/*][*][p]Minor adjustments to viewmodel animations[/p][/*][*][p]Adjusted counter-strafe animation head dip amount[/p][/*][/list][p][/p][p]Please note that the client may produce a fatal error message when attempting to connect to a server running a different build.[/p]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]animgraph_2_beta 版本中提供了以下更改。要选择加入测试版，请按照此处的说明进行操作：[url=\"https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A\"]https://help.steampowered.com/en/faqs/view/5A86-0DF4-C59E-8C4A[/url][/p][p][/p][p]报告错误或提供有关测试版的反馈构建，请发送电子邮件至 csgoteamfeedback@[url=\"https://valvesoftware.com\"]valvesoftware.com[/url]，主题为“AG2 Beta”。[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]修复了视图模型和世界模型 HE 手榴弹投掷[/p][/*][*][p]调整脚部 IK闲置[/p][/*][*][p]种植时转弯动画的小幅改进[/p][/*][*][p]修复了按住检查时的快速武器切换[/p][/*][*][p]对视图模型动画的小调整[/p][/*][*][p]调整了反平移动画头部倾斜amount[/p][/*][/list][p][/p][p]请注意，当客户端尝试连接到运行不同版本的服务器时，可能会产生致命错误消息。[/p]"
       }
     ]
   }
