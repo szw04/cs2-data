@@ -2,6 +2,43 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1832065502813483",
+        "title": "NIGHTMODE II Music Kits",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483",
+        "is_external_url": true,
+        "author": "COMPLEX",
+        "contents": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\nToday we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:\n[list]\n[*] ALRT, DOPAMINE HIT\n[*] Altare, Change My Mind\n[*] borne, Give It To Me\n[*] Pirapus, EVERYNITE\n[*] Repiet & Julia Kleijn, On And On\n[*] ShockOne, Voices\n[/list]Alongside new music kits, we've continued updating Cache and made other miscellaneous fixes. \n\nRelease Notes for today's update can be found [url=https://store.steampowered.com/news/app/730/view/702141807556821888]here[/url].\n\n",
+        "feedlabel": "Community Announcements",
+        "date": 1778191843,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "title_en": "NIGHTMODE II Music Kits",
+        "contents_en": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\nToday we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:\n[list]\n[*] ALRT, DOPAMINE HIT\n[*] Altare, Change My Mind\n[*] borne, Give It To Me\n[*] Pirapus, EVERYNITE\n[*] Repiet & Julia Kleijn, On And On\n[*] ShockOne, Voices\n[/list]Alongside new music kits, we've continued updating Cache and made other miscellaneous fixes. \n\nRelease Notes for today's update can be found [url=https://store.steampowered.com/news/app/730/view/702141807556821888]here[/url].\n\n",
+        "title_cn": "NIGHTMODE II 音乐套件",
+        "contents_cn": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\n今天，我们将与 NIGHTMODE Records 一起发布六款新音乐套件。 NIGHTMODE II 音乐套件现已在 STORE 选项卡中提供，其中包括：\n[列表]\n[*] 警报，多巴胺发挥作用\n[*] 阿尔塔，改变我的想法\n[*] 承担，给我\n[*] 皮拉帕斯，每夜\n[*] Repiet 和 Julia Kleijn，《On And On》\n[*] ShockOne、声音\n[/list]除了新的音乐包之外，我们还继续更新缓存并进行其他杂项修复。 \n\n今天的更新的发行说明可以在[url=https://store.steampowered.com/news/app/730/view/702141807556821888]此处[/url]找到。"
+      },
+      {
+        "gid": "1832065502813482",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813482",
+        "is_external_url": true,
+        "author": "tomd",
+        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.[/p][/*][/list][p]\\[ WORKSHOP ][/p][list][*][p]Fixed progressive refinement rendering Source Film Maker.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]User Viewmodel FOV now correctly networks to remote clients.[/p][/*][*][p]Adjusted player model occlusion bounds.[/p][/*][*][p]Fixed ragdolls missing death velocity when shot in specific body locations.[/p][/*][*][p]Minor adjustments to ground smoothing transitions when leaving the ground and when landing.[/p][/*][*][p]Fixed a case where post-processing transitions weren't smooth (e.g. at the end of freeze time).[/p][/*][*][p]Fixed a case where map guides for Ancient wouldn't load in the nighttime version.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1778191777,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.[/p][/*][/list][p]\\[ WORKSHOP ][/p][list][*][p]Fixed progressive refinement rendering Source Film Maker.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]User Viewmodel FOV now correctly networks to remote clients.[/p][/*][*][p]Adjusted player model occlusion bounds.[/p][/*][*][p]Fixed ragdolls missing death velocity when shot in specific body locations.[/p][/*][*][p]Minor adjustments to ground smoothing transitions when leaving the ground and when landing.[/p][/*][*][p]Fixed a case where post-processing transitions weren't smooth (e.g. at the end of freeze time).[/p][/*][*][p]Fixed a case where map guides for Ancient wouldn't load in the nighttime version.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ 地图 ][/p][p]缓存[/p][列表][*][p]修复了地图中的各种漏洞。[/p][/*][*][p]简化了各个区域的手榴弹剪辑。[/p][/*][*][p]修复了各种材料的声音和表面类型。[/p][/*][*][p]沙袋的橙色线轴已修复交换为白线。[/p][/*][/list][p]\\[ 音乐套件 ][/p][list][*][p]NIGHTMODE II 音乐套件现在可以通过 STORE 选项卡购买标准版本和 StatTrak 版本。[/p][/*][/list][p]\\[ WORKSHOP ][/p][list][*][p]修复了渐进细化渲染源影片Maker。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]用户视图模型视野现在可以正确地联网到远程客户端。[/p][/*][*][p]调整了玩家模型遮挡边界。[/p][/*][*][p]修复了布娃娃在特定身体中射击时丢失死亡速度的问题[/p][/*][*][p]对离开地面和着陆时的地面平滑过渡进行了细微调整。[/p][/*][*][p]修复了后处理过渡不平滑的情况（例如在冻结时间结束时）。[/p][/*][*][p]修复了古代地图指南在夜间无法加载的情况版本。[/p][/*][/list]"
+      },
+      {
         "gid": "1831432155569878",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1831432155569878",
@@ -119,7 +156,7 @@
         "title_en": "Counter-Strike 2 Update",
         "contents_en": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed XM1014 shells flickering when starting a reload.[/p][/*][*][p]Fixed bugs with dual berettas in first person and in spectator mode.[/p][/*][*][p]Fixed inspect/cancel causing multiple worldmodel deploys.[/p][/*][*][p]Fixed a bug where players can get stuck in a planted-turn state.[/p][/*][*][p]Made foot IK transitions smoother.[/p][/*][*][p]Adjusted the firstperson in-air crouch transition time to match the thirdperson animation better.[/p][/*][*][p]Fixed a case where high frequency stutter steps would cause large pose changes.[/p][/*][*][p]Fixed a case where legs would snap when quickly stopping and then continuing in same direction.[/p][/*][*][p]Adjusted thirdperson bomb plant animation to more closely match firstperson animation.[/p][/*][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed random crash on startup when a non-default Audio Device was specified in settings or when sound_device_override was specified in a config file or on the command line.[/p][/*][*][p]Adjusted official map guides to match new surface smoothing.[/p][/*][*][p]Dropped weapons with silencers now correctly reflect the silenced state.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]修复了开始重新加载时 XM1014 炮弹闪烁的问题。[/p][/*][*][p]修复了第一人称和旁观者模式下双贝雷塔的错误。[/p][/*][*][p]修复了检查/取消导致多个世界模型的问题部署。[/p][/*][*][p]修复了玩家可能卡在踩踏转弯状态的错误。[/p][/*][*][p]使脚 IK 过渡更加平滑。[/p][/*][*][p]调整了第一人称空中蹲伏过渡时间，以更好地匹配第三人称动画。[/p][/*][*][p]修复了高频的情况断断续续的脚步会导致较大的姿势变化。[/p][/*][*][p]修复了快速停止然后继续朝同一方向前进时腿会折断的情况。[/p][/*][*][p]调整了第三人称炸弹工厂动画，以更紧密地匹配第一人称动画。[/p][/*][*][p]对视图模型进行了细微调整动画。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]修复了在设置中指定非默认音频设备或在配置文件或命令行中指定 sound_device_override 时启动时的随机崩溃。[/p][/*][*][p]调整了官方地图指南以匹配新表面平滑。[/p][/*][*][p]带有消音器的掉落武器现在可以正确反映静音状态。[/p][/*][/list]"
+        "contents_cn": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]修复了开始重新加载时 XM1014 炮弹闪烁的问题。[/p][/*][*][p]修复了第一人称和旁观者模式下双贝雷塔的错误。[/p][/*][*][p]修复了检查/取消导致多个世界模型的问题部署。[/p][/*][*][p]修复了玩家可能卡在踩踏转弯状态的错误。[/p][/*][*][p]使脚部 IK 过渡更加平滑。[/p][/*][*][p]调整了第一人称空中蹲伏过渡时间，以更好地匹配第三人称动画。[/p][/*][*][p]修复了高频的情况断断续续的脚步会导致较大的姿势变化。[/p][/*][*][p]修复了快速停止然后继续朝同一方向前进时腿会折断的情况。[/p][/*][*][p]调整了第三人称炸弹工厂动画，以更紧密地匹配第一人称动画。[/p][/*][*][p]对视图模型进行了细微调整动画。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]修复了在设置中指定非默认音频设备或在配置文件或命令行中指定 sound_device_override 时启动时的随机崩溃。[/p][/*][*][p]调整了官方地图指南以匹配新表面平滑。[/p][/*][*][p]带有消音器的掉落武器现在可以正确反映静音状态。[/p][/*][/list]"
       },
       {
         "gid": "1830797770231786",
@@ -160,46 +197,6 @@
         "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Fixed several cases where crouch transitions in the air were instantaneous.[/p][/*][*][p]Fixed a bug where MVP panel characters weren't resetting correctly.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ GAMEPLAY ][/p][list][*][p]调整了后坐力导致的摄像机运动，以更接近地匹配 CS:GO。子弹轨迹应继续与 CS2 相匹配。[/p][/*][*][p]无论网络延迟如何，玩家现在都将体验到由于外部瞄准源（例如被射击）而导致的完整摄像机运动。瞄准拳对子弹轨迹的影响仍然会立即应用到服务器上。[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]对视图模型动画进行细微调整。[/p][/*][*][p]修复了几种在空中蹲伏过渡的情况瞬时。[/p][/*][*][p]修复了 MVP 面板字符无法正确重置的错误。[/p][/*][/list]"
-      },
-      {
-        "gid": "1830163047267453",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267453",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ MISC ][/p][list][*][p]Fixed a bug that removed the delay between burst fire bullets.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1776733888,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MISC ][/p][list][*][p]Fixed a bug that removed the delay between burst fire bullets.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ MISC ][/p][list][*][p]修复了消除连发子弹之间延迟的错误。[/p][/*][/list]"
-      },
-      {
-        "gid": "1830163047267301",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047267301",
-        "is_external_url": true,
-        "author": "Piggles ULTRAPRO",
-        "contents": "[p]All changes from the animgraph_2_beta build are now live.[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Adjusted general weapon deploy animation logic.[/p][/*][*][p]Fixed issues with transitioning between knife attacks.[/p][/*][*][p]Fixed Elites not shooting in third-person.[/p][/*][/list][p]\n\\[ MISC ][/p][list][*][p]Fixed a bug that allowed silently climbing ladders at run speed by sporadically tapping movement keys.[/p][/*][*][p]Adjusted ground smoothing at locations where sloped ground surfaces transition to flat ground.[/p][/*][*][p]Fixed held grenades inheriting incorrect scale in some circumstances such as after being dropped and picked up.[/p][/*][*][p]Fixed a crash at halftime when transitioning from CT to T.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1776725923,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]All changes from the animgraph_2_beta build are now live.[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Adjusted general weapon deploy animation logic.[/p][/*][*][p]Fixed issues with transitioning between knife attacks.[/p][/*][*][p]Fixed Elites not shooting in third-person.[/p][/*][/list][p]\n\\[ MISC ][/p][list][*][p]Fixed a bug that allowed silently climbing ladders at run speed by sporadically tapping movement keys.[/p][/*][*][p]Adjusted ground smoothing at locations where sloped ground surfaces transition to flat ground.[/p][/*][*][p]Fixed held grenades inheriting incorrect scale in some circumstances such as after being dropped and picked up.[/p][/*][*][p]Fixed a crash at halftime when transitioning from CT to T.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]animgraph_2_beta 版本中的所有更改现已生效。[/p][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]对视图模型动画进行了细微调整。[/p][/*][*][p]调整了一般武器部署动画逻辑。[/p][/*][*][p]修复了刀之间转换的问题攻击。[/p][/*][*][p]修复精英不以第三人称射击的问题。[/p][/*][/list][p]\n\\[ MISC ][/p][list][*][p]修复了一个错误，该错误允许通过偶尔点击移动键以运行速度悄悄攀登梯子。[/p][/*][*][p]调整了倾斜地面过渡到平坦地面的位置的地面平滑度。[/p][/*][*][p]修复了持有的手榴弹在某些情况下继承不正确的比例，例如在掉落和拾取后up.[/p][/*][*][p]修复了从CT转换到T时中场休息时的崩溃问题。[/p][/*][/list]"
       }
     ]
   }
