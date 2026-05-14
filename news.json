@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1832700592790456",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456",
+        "is_external_url": true,
+        "author": "daVinci1980",
+        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin pull animation.[/p][/*][*][p]Miscellaneous stability improvements.[/p][/*][/list][p]\\[ TOOLS ][/p][list][*][p]Fixed bug that prevented the asset in use from being selected when model browser was opened.[/p][/*][*][p]Fixed bug with layered materials with same surface property on all layers. [/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]Added roundmvpanthem_02 for all NIGHTMODE II music kits which plays at 1:5 ratio.[/p][/*][/list][p][/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1778797438,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin pull animation.[/p][/*][*][p]Miscellaneous stability improvements.[/p][/*][/list][p]\\[ TOOLS ][/p][list][*][p]Fixed bug that prevented the asset in use from being selected when model browser was opened.[/p][/*][*][p]Fixed bug with layered materials with same surface property on all layers. [/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]Added roundmvpanthem_02 for all NIGHTMODE II music kits which plays at 1:5 ratio.[/p][/*][/list][p][/p]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ MAPS ][/p][p]缓存[/p][list][*][p]修复了地图中的各种漏洞[/p][/*][*][p]修复了各种材质的表面类型。[/p][/*][*][p]向某些窗口添加了光栅，使其能够阻挡子弹。[/p][/*][*][p]对玩家和手榴弹进行了调整剪辑。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]修复了在拉针动画接近结束时开始投掷手榴弹后可以取消投掷的情况。[/p][/*][*][p]其他稳定性改进。[/p][/*][/list][p]\\[ 工具][/p][list][*][p]修复了打开模型浏览器时无法选择正在使用的资源的错误。[/p][/*][*][p]修复了所有图层上具有相同表面属性的分层材质的错误。 [/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]为所有 NIGHTMODE II 音乐套件添加了 roundmvpanthem_02，以 1:5 比例播放。[/p][/*][/list][p][/p]"
+      },
+      {
         "gid": "1832065502813483",
         "title": "NIGHTMODE II Music Kits",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483",
@@ -177,26 +197,6 @@
         "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted ground smoothing at locations where the player can stand on very thin ledges.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Corrected some improper character texture assignments.[/p][/*][*][p]Trade offers containing Counter-Strike 2 items are now limited to 1,000 items.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ GAMEPLAY ][/p][list][*][p]调整了玩家可以站在非常薄的壁架上的位置的地面平滑度。[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]对视图模型进行了细微调整动画。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]更正了一些不正确的角色纹理分配。[/p][/*][*][p]包含《反恐精英 2》物品的贸易优惠现已限制为 1,000 件。[/p][/*][/list]"
-      },
-      {
-        "gid": "1830797770229332",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770229332",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Fixed several cases where crouch transitions in the air were instantaneous.[/p][/*][*][p]Fixed a bug where MVP panel characters weren't resetting correctly.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1776810660,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted camera motion due to recoil to match CS:GO more closely. Bullet trajectories should continue to match CS2.[/p][/*][*][p]Players will now experience the full camera motion due to external sources of aim punch (e.g. getting shot) regardless of network latency. The effects of aim punch on bullet trajectories are still applied immediately on the server.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][*][p]Fixed several cases where crouch transitions in the air were instantaneous.[/p][/*][*][p]Fixed a bug where MVP panel characters weren't resetting correctly.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ GAMEPLAY ][/p][list][*][p]调整了后坐力导致的摄像机运动，以更接近地匹配 CS:GO。子弹轨迹应继续与 CS2 相匹配。[/p][/*][*][p]无论网络延迟如何，玩家现在都将体验到由于外部瞄准源（例如被射击）而导致的完整摄像机运动。瞄准拳对子弹轨迹的影响仍然会立即应用到服务器上。[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]对视图模型动画进行细微调整。[/p][/*][*][p]修复了几种在空中蹲伏过渡的情况瞬时。[/p][/*][*][p]修复了 MVP 面板字符无法正确重置的错误。[/p][/*][/list]"
       }
     ]
   }
