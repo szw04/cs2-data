@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1832700592799760",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592799760",
+        "is_external_url": true,
+        "author": "Vitaliy",
+        "contents": "[p]\\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage overlay effect.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added weapon_accuracy_stack_boost_limit (default value \"2\") to apply ladder inaccuracy to players boosted by a stack of this many or more players.[/p][/*][*][p]Adjustments to AWP draw to idle animation transition.[/p][/*][*][p]Improved consistency of grenade jump throws and the accuracy of the jump throw preview camera.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted model for window covers to show collision / decals when shot.[/p][/*][*][p]Adjustments to player clipping and grenade clipping around windows, window covers, and vent entrance.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.RegisterCheatCommand[/p][/*][*][p]Added Instance.GetAllPlayerControllers[/p][/*][*][p]Added Instance.OnBeginRoundRestart[/p][/*][*][p]Added Instance.SetRoundRemainingTime[/p][/*][*][p]Added CSPlayerController.AddMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.GetMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.AddMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerController.GetMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerPawn.HasHelmet[/p][/*][*][p]Added CSPlayerPawn.SetHasHelmet[/p][/*][*][p]Added CSPlayerPawn.IsScoped[/p][/*][*][p]Added CSWeaponBase.IsSilencerOn[/p][/*][*][p]Changed the activator for OnPlayerUse to always be the player[/p][/*][*][p]Changed the caller for OnPlayerUse to always be the used entity[/p][/*][*][p]Fixed the value of CSInputs.LOOK_AT_WEAPON[/p][/*][*][p]Fixed a potential crash in exception handling[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1779147368,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage overlay effect.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added weapon_accuracy_stack_boost_limit (default value \"2\") to apply ladder inaccuracy to players boosted by a stack of this many or more players.[/p][/*][*][p]Adjustments to AWP draw to idle animation transition.[/p][/*][*][p]Improved consistency of grenade jump throws and the accuracy of the jump throw preview camera.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted model for window covers to show collision / decals when shot.[/p][/*][*][p]Adjustments to player clipping and grenade clipping around windows, window covers, and vent entrance.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.RegisterCheatCommand[/p][/*][*][p]Added Instance.GetAllPlayerControllers[/p][/*][*][p]Added Instance.OnBeginRoundRestart[/p][/*][*][p]Added Instance.SetRoundRemainingTime[/p][/*][*][p]Added CSPlayerController.AddMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.GetMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.AddMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerController.GetMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerPawn.HasHelmet[/p][/*][*][p]Added CSPlayerPawn.SetHasHelmet[/p][/*][*][p]Added CSPlayerPawn.IsScoped[/p][/*][*][p]Added CSWeaponBase.IsSilencerOn[/p][/*][*][p]Changed the activator for OnPlayerUse to always be the player[/p][/*][*][p]Changed the caller for OnPlayerUse to always be the used entity[/p][/*][*][p]Fixed the value of CSInputs.LOOK_AT_WEAPON[/p][/*][*][p]Fixed a potential crash in exception handling[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ 观看][/p][list][*][p]修复了在具有不同后处理体积的地图上切换观众目标时出现后处理故障的情况。[/p][/*][*][p]修复了切换观众目标时 X 射线轮廓卡住的情况。[/p][/*][*][p]修复了观众伤害叠加效果。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]添加了 Weapon_accuracy_stack_boost_limit（默认值“2”），以将梯子不准确度应用于由这么多或更多玩家叠加的玩家。[/p][/*][*][p]调整 AWP 绘制到空闲动画过渡。[/p][/*][*][p]改进了手榴弹跳投的一致性和跳投预览相机的准确性。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]缓存[/p][list][*][p]调整了窗盖的模型，以在以下情况下显示碰撞/贴花[/p][/*][*][p]调整了窗户、窗盖和通风口周围的玩家剪裁和手榴弹剪裁。[/p][/*][/list][p][/p][p]\\[ 地图脚本][/p][list][*][p]添加了 Instance.RegisterCheatCommand[/p][/*][*][p]添加Instance.GetAllPlayerControllers[/p][/*][*][p]添加 Instance.OnBeginRoundRestart[/p][/*][*][p]添加 Instance.SetRoundRemainingTime[/p][/*][*][p]添加 CSPlayerController.AddMoneySpendableNow[/p][/*][*][p]添加CSPlayerController.GetMoneySpendableNow[/p][/*][*][p]添加了 CSPlayerController.AddMoneyEarnedForNextRound[/p][/*][*][p]添加了 CSPlayerController.GetMoneyEarnedForNextRound[/p][/*][*][p]添加了 CSPlayerPawn.HasHelmet[/p][/*][*][p]添加了CSPlayerPawn.SetHasHelmet[/p][/*][*][p]添加了 CSPlayerPawn.IsScoped[/p][/*][*][p]添加了 CSWeaponBase.IsSilencerOn[/p][/*][*][p]将 OnPlayerUse 的激活器更改为始终为玩家[/p][/*][*][p]更改了 OnPlayerUse 的调用者始终是使用的实体[/p][/*][*][p]修复了 CSInputs.LOOK_AT_WEAPON 的值[/p][/*][*][p]修复了异常处理中潜在的崩溃[/p][/*][/list]"
+      },
+      {
         "gid": "1832700592790456",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456",
@@ -177,26 +197,6 @@
         "contents_en": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Fixed XM1014 shells flickering when starting a reload.[/p][/*][*][p]Fixed bugs with dual berettas in first person and in spectator mode.[/p][/*][*][p]Fixed inspect/cancel causing multiple worldmodel deploys.[/p][/*][*][p]Fixed a bug where players can get stuck in a planted-turn state.[/p][/*][*][p]Made foot IK transitions smoother.[/p][/*][*][p]Adjusted the firstperson in-air crouch transition time to match the thirdperson animation better.[/p][/*][*][p]Fixed a case where high frequency stutter steps would cause large pose changes.[/p][/*][*][p]Fixed a case where legs would snap when quickly stopping and then continuing in same direction.[/p][/*][*][p]Adjusted thirdperson bomb plant animation to more closely match firstperson animation.[/p][/*][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed random crash on startup when a non-default Audio Device was specified in settings or when sound_device_override was specified in a config file or on the command line.[/p][/*][*][p]Adjusted official map guides to match new surface smoothing.[/p][/*][*][p]Dropped weapons with silencers now correctly reflect the silenced state.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ ANIMGRAPH 2 ][/p][list][*][p]修复了开始重新加载时 XM1014 炮弹闪烁的问题。[/p][/*][*][p]修复了第一人称和旁观者模式下双贝雷塔的错误。[/p][/*][*][p]修复了检查/取消导致多个世界模型的问题部署。[/p][/*][*][p]修复了玩家可能卡在踩踏转弯状态的错误。[/p][/*][*][p]使脚部 IK 过渡更加平滑。[/p][/*][*][p]调整了第一人称空中蹲伏过渡时间，以更好地匹配第三人称动画。[/p][/*][*][p]修复了高频的情况断断续续的脚步会导致较大的姿势变化。[/p][/*][*][p]修复了快速停止然后继续朝同一方向前进时腿会折断的情况。[/p][/*][*][p]调整了第三人称炸弹工厂动画，以更紧密地匹配第一人称动画。[/p][/*][*][p]对视图模型进行了细微调整动画。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]修复了在设置中指定非默认音频设备或在配置文件或命令行中指定 sound_device_override 时启动时的随机崩溃。[/p][/*][*][p]调整了官方地图指南以匹配新表面平滑。[/p][/*][*][p]带有消音器的掉落武器现在可以正确反映静音状态。[/p][/*][/list]"
-      },
-      {
-        "gid": "1830797770231786",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770231786",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted ground smoothing at locations where the player can stand on very thin ledges.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Corrected some improper character texture assignments.[/p][/*][*][p]Trade offers containing Counter-Strike 2 items are now limited to 1,000 items.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1776897651,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Adjusted ground smoothing at locations where the player can stand on very thin ledges.[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]Minor adjustments to viewmodel animations.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Corrected some improper character texture assignments.[/p][/*][*][p]Trade offers containing Counter-Strike 2 items are now limited to 1,000 items.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ GAMEPLAY ][/p][list][*][p]调整了玩家可以站在非常薄的壁架上的位置的地面平滑度。[/p][/*][/list][p][/p][p]\\[ ANIMGRAPH 2 ][/p][list][*][p]对视图模型进行了细微调整动画。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]更正了一些不正确的角色纹理分配。[/p][/*][*][p]包含《反恐精英 2》物品的贸易优惠现已限制为 1,000 件。[/p][/*][/list]"
       }
     ]
   }
