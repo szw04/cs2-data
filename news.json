@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1833968530889736",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736",
+        "is_external_url": true,
+        "author": "brianlev",
+        "contents": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\\[ MAPS ][/p][p]Ancient[/p][list][*][p]Updated clipping to prevent certain boost locations[/p][/*][/list][p]Sanctum[/p][list][*][p]Updated to the latest version from Steam Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]Update Notes[/url])[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1780013843,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\\[ MAPS ][/p][p]Ancient[/p][list][*][p]Updated clipping to prevent certain boost locations[/p][/*][/list][p]Sanctum[/p][list][*][p]Updated to the latest version from Steam Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]Update Notes[/url])[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]添加了在 Cologne 2026 商店中为贴纸添加书签的功能。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]添加了 convar r_spectator_flashbang_opacity 来控制远程闪光弹的不透明度观众。[/p][/*][*][p]远程观众的闪光效果现在在 HUD 下方呈现。[/p][/*][*][p]稳定性改进[/p][/*][/list][p]\\[ MAPS ][/p][p]古代[/p][list][*][p]更新了剪辑以防止某些增强地点[/p][/*][/list][p]Sanctum[/p][list][*][p]已从 Steam 创意工坊更新至最新版本 ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]更新说明[/url])[/p][/*][/list]"
+      },
+      {
         "gid": "1833334318570412",
         "title": "IEM Cologne 2026",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318570412",
@@ -174,23 +194,6 @@
         "contents_en": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Bomb explosion radius increased.[/p][/*][*][p]Lighting Adjustments around Vent.[/p][/*][*][p]Disabled player collision on sign and removed lamp by squeaky.[/p][/*][*][p]Reworked e-box on A-site for better visibility.[/p][/*][*][p]Lowered Checkers entrance frame height at B Main.[/p][/*][*][p]Removed AC unit above Sandbags and moved pipes.[/p][/*][*][p]Fixed lack of footstep sounds on top of crates at A-site.[/p][/*][*][p]Fixed hole in world on door in Sun Room.[/p][/*][*][p]Fixed wall bangs on A Main wall.[/p][/*][*][p]Fixed some z-fighting around Garage.[/p][/*][*][p]Adjusted grenade clipping throughout map.[/p][/*][*][p]Adjusted player clipping throughout map.[/p][/*][/list][p]Dust II[/p][list][*][p]Blocked visibility through corner of Mid Box (Xbox).[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]Speculative fix for a case where all audio drops out.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed cases where crouch-jumping in confined spaces could cause the player camera to intersect the ceiling.[/p][/*][*][p]Adjusted particle effect sprite opacity for fully occluded flashbangs.[/p][/*][*][p]Improved smoke lighting consistency.[/p][/*][*][p]Minor adjustments to dropped pistol magazine velocity.[/p][/*][*][p]Ambient Occlusion adjustment settings in Environment Blend shader restored.[/p][/*][*][p]Fixed a case where money was subtracted from the wrong player during bot takeover.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ 地图 ][/p][p]缓存[/p][list][*][p]炸弹爆炸半径增加。[/p][/*][*][p]通风口周围的照明调整。[/p][/*][*][p]禁止玩家在标志上发生碰撞，并通过吱吱声移除灯。[/p][/*][*][p]重新设计了 A 站点上的电子箱，以获得更好的效果能见度。[/p][/*][*][p]降低了 B Main 处的 Checkers 入口框架高度。[/p][/*][*][p]移除了沙袋上方的空调装置并移动了管道。[/p][/*][*][p]修复了 A 站点板条箱顶部缺少脚步声的问题。[/p][/*][*][p]修复了阳光下世界中门上的洞房间。[/p][/*][*][p]修复了主墙上的墙壁刘海。[/p][/*][*][p]修复了车库周围的一些深度冲突。[/p][/*][*][p]调整了整个地图上的手榴弹剪裁。[/p][/*][*][p]调整了整个地图上的玩家剪裁地图。[/p][/*][/list][p]Dust II[/p][list][*][p]通过 Mid Box (Xbox) 的一角阻挡可见性。[/p][/*][/list][p][/p][p]\\[ SOUND ][/p][list][*][p]对所有音频丢失的情况进行推测修复out.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]修复了在密闭空间中蹲伏跳跃可能导致玩家摄像机与天花板相交的情况。[/p][/*][*][p]调整了粒子效果精灵不透明度以实现完全遮挡flashbangs。[/p][/*][*][p]改进了烟雾照明的一致性。[/p][/*][*][p]对掉落的手枪弹匣速度进行了细微调整。[/p][/*][*][p]恢复了环境混合着色器中的环境光遮挡调整设置。[/p][/*][*][p]修复了在机器人过程中从错误的玩家身上扣除金钱的情况接管。[/p][/*][/list]"
-      },
-      {
-        "gid": "1831432155564670",
-        "title": "Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1831432155564670",
-        "is_external_url": true,
-        "author": "",
-        "contents": "A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive!<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/04/cache-arrives-in-counter-strike-2-while-valve-continue-working-on-animgraph-2/</p>",
-        "feedlabel": "GamingOnLinux",
-        "date": 1777458337,
-        "feedname": "GamingOnLinux",
-        "feed_type": 0,
-        "appid": 730,
-        "title_en": "Cache arrives in Counter-Strike 2 while Valve continue working on ANIMGRAPH 2",
-        "contents_en": "A return of a classic, the popular Cache map has finally returned with the latest Counter-Strike 2 update that's out now. Nice to see more content arrive!<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg\" alt /></p><p>Read the full article here: https://www.gamingonlinux.com/2026/04/cache-arrives-in-counter-strike-2-while-valve-continue-working-on-animgraph-2/</p>",
-        "title_cn": "Cache 抵达《反恐精英 2》，而 Valve 仍在继续开发 ANIMGRAPH 2",
-        "contents_cn": "经典回归，广受欢迎的缓存地图终于在《反恐精英 2》最新更新中回归。很高兴看到更多内容到来！<p><img src=\"https://www.gamingonlinux.com/uploads/articles/tagline_images/573327734id28922gol.jpg\" alt /></p><p>在此处阅读全文： https://www.gamingonlinux.com/2026/04/cache-arrives-in-counter-strike-2-while-valve-continue-working-on-animgraph-2/</p>"
       }
     ]
   }
