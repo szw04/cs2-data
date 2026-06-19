@@ -35,8 +35,8 @@
         ],
         "title_en": "Counter-Strike 2 Update",
         "contents_en": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.[/p][/*][*][p]Fixed number wrapping rules in some languages.[/p][/*][/list]",
-        "title_cn": "Counter-Strike 2 Update",
-        "contents_cn": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.[/p][/*][*][p]Fixed number wrapping rules in some languages.[/p][/*][/list]"
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ 科隆 2026 ][/p][list][*][p]在科隆 2026 主要商店中添加了过去 7 天内最低和最高标价的显示。[/p][/*][*][p]在主菜单上的科隆 2026 主要枢纽图块中添加了贴纸展示。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]在存储单元存款/检索用户界面中添加了多选功能。[/p][/*][*][p]当用户的库存已满并尝试兑换每周护理包奖励、军械库物品或主要商店购物车中的物品时添加了适当的错误消息。[/p][/*][*][p]修复了某些语言的数字换行规则。[/p][/*][/list]"
       },
       {
         "gid": "1833968530889736",
