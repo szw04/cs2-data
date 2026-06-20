@@ -2,6 +2,23 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1835871199310024",
+        "title": "The IEM Cologne 2026 Grand Finals",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024",
+        "is_external_url": true,
+        "author": "COMPLEX",
+        "contents": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\nFollowing one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.\n\nAfter losing the opening map of their Playoffs, FURIA have been unbeaten, rallying back against 9z Team to win 2-1 in the Quarterfinals and taking down Aurora Gaming 2-0 in the Semifinals to reach the Grand Finals for the first time in the organization's history. \n\nTeam Falcons took down the world's #1 team, Team Vitality, 2-1 in the Quarterfinals. A day later, they punched their ticket to the Grand Finals by defeating Team Spirit 2-1 in dramatic fashion, needing Overtime in the third map. This is Team Falcons first Major Championship appearance.  \n\nCoverage of the best of five Grand Finals between FURIA and Team Falcons begins with the opening ceremony at 16:45 CEST (10:45AM EDT). Don't miss a moment!\n\nAnd with the Major coming to a close, team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nGood luck to both teams!",
+        "feedlabel": "Community Announcements",
+        "date": 1781988714,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "title_en": "The IEM Cologne 2026 Grand Finals",
+        "contents_en": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\nFollowing one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.\n\nAfter losing the opening map of their Playoffs, FURIA have been unbeaten, rallying back against 9z Team to win 2-1 in the Quarterfinals and taking down Aurora Gaming 2-0 in the Semifinals to reach the Grand Finals for the first time in the organization's history. \n\nTeam Falcons took down the world's #1 team, Team Vitality, 2-1 in the Quarterfinals. A day later, they punched their ticket to the Grand Finals by defeating Team Spirit 2-1 in dramatic fashion, needing Overtime in the third map. This is Team Falcons first Major Championship appearance.  \n\nCoverage of the best of five Grand Finals between FURIA and Team Falcons begins with the opening ceremony at 16:45 CEST (10:45AM EDT). Don't miss a moment!\n\nAnd with the Major coming to a close, team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nGood luck to both teams!",
+        "title_cn": "2026年IEM科隆总决赛",
+        "contents_cn": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\n在经历了大满贯季后赛历史上最难忘的日子之一之后，周六的半决赛让两支球队争夺大满贯冠军。\n\n在季后赛首张地图失利后，FURIA 一直保持不败，在四分之一决赛中以 2-1 逆转战胜 9z Team，并在半决赛中以 2-0 击败 Aurora Gaming，历史上首次进入总决赛。 \n\n猎鹰队在四分之一决赛中以 2-1 击败了世界排名第一的球队活力队。一天后，他们在第三张地图上经过加时赛，以戏剧性的方式以 2-1 击败 Team Spirit，从而获得了总决赛的入场券。这是猎鹰队首次参加大满贯赛。  \n\n对 FURIA 与猎鹰队之间的总决赛五局三胜的报道从欧洲中部夏令时间 16:45（美国东部时间上午 10:45）开幕式开始。不要错过任何一刻！\n\n随着Major 即将结束，球队和球员贴纸仍然可用，比赛物品销售的 50% 与比赛组织者、球队和球员分享。\n\n祝两队好运！"
+      },
+      {
         "gid": "1835871199302220",
         "title": "Playoffs at the \"Cathedral of Counter-Strike\"",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
@@ -171,26 +188,6 @@
         "contents_en": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\nToday we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:\n[list]\n[*] ALRT, DOPAMINE HIT\n[*] Altare, Change My Mind\n[*] borne, Give It To Me\n[*] Pirapus, EVERYNITE\n[*] Repiet & Julia Kleijn, On And On\n[*] ShockOne, Voices\n[/list]Alongside new music kits, we've continued updating Cache and made other miscellaneous fixes. \n\nRelease Notes for today's update can be found [url=https://store.steampowered.com/news/app/730/view/702141807556821888]here[/url].\n\n",
         "title_cn": "NIGHTMODE II 音乐套件",
         "contents_cn": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\n今天，我们将与 NIGHTMODE Records 一起发布六款新音乐套件。 NIGHTMODE II 音乐套件现已在 STORE 选项卡中提供，其中包括：\n[列表]\n[*] 警报，多巴胺发挥作用\n[*] 阿尔塔，改变我的想法\n[*] 承担，给我\n[*] 皮拉帕斯，每夜\n[*] Repiet 和 Julia Kleijn，《On And On》\n[*] ShockOne、声音\n[/list]除了新的音乐包之外，我们还继续更新缓存并进行其他杂项修复。 \n\n今天的更新的发行说明可以在[url=https://store.steampowered.com/news/app/730/view/702141807556821888]此处[/url]找到。"
-      },
-      {
-        "gid": "1832065502813482",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813482",
-        "is_external_url": true,
-        "author": "tomd",
-        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.[/p][/*][/list][p]\\[ WORKSHOP ][/p][list][*][p]Fixed progressive refinement rendering Source Film Maker.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]User Viewmodel FOV now correctly networks to remote clients.[/p][/*][*][p]Adjusted player model occlusion bounds.[/p][/*][*][p]Fixed ragdolls missing death velocity when shot in specific body locations.[/p][/*][*][p]Minor adjustments to ground smoothing transitions when leaving the ground and when landing.[/p][/*][*][p]Fixed a case where post-processing transitions weren't smooth (e.g. at the end of freeze time).[/p][/*][*][p]Fixed a case where map guides for Ancient wouldn't load in the nighttime version[/p][/*][*][p]Adjusted score values for various weapons in Deathmatch.[/p][/*][*][p]Adjusted XP limits in Deathmatch and Arms Race.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1778191777,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map.[/p][/*][*][p]Simplified grenade clipping in various areas.[/p][/*][*][p]Fixed sounds and surfacetypes for various materials.[/p][/*][*][p]Orange wire spool at Sandbags has been exchanged for white wire.[/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]NIGHTMODE II Music Kits are now available for purchase in standard and StatTrak versions through the STORE tab.[/p][/*][/list][p]\\[ WORKSHOP ][/p][list][*][p]Fixed progressive refinement rendering Source Film Maker.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]User Viewmodel FOV now correctly networks to remote clients.[/p][/*][*][p]Adjusted player model occlusion bounds.[/p][/*][*][p]Fixed ragdolls missing death velocity when shot in specific body locations.[/p][/*][*][p]Minor adjustments to ground smoothing transitions when leaving the ground and when landing.[/p][/*][*][p]Fixed a case where post-processing transitions weren't smooth (e.g. at the end of freeze time).[/p][/*][*][p]Fixed a case where map guides for Ancient wouldn't load in the nighttime version[/p][/*][*][p]Adjusted score values for various weapons in Deathmatch.[/p][/*][*][p]Adjusted XP limits in Deathmatch and Arms Race.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ 地图 ][/p][p]缓存[/p][列表][*][p]修复了地图中的各种漏洞。[/p][/*][*][p]简化了各个区域的手榴弹剪辑。[/p][/*][*][p]修复了各种材料的声音和表面类型。[/p][/*][*][p]沙袋的橙色线轴已修复交换为白线。[/p][/*][/list][p]\\[ 音乐套件 ][/p][list][*][p]NIGHTMODE II 音乐套件现在可以通过 STORE 选项卡购买标准版本和 StatTrak 版本。[/p][/*][/list][p]\\[ WORKSHOP ][/p][list][*][p]修复了渐进细化渲染源影片Maker。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]用户视图模型视野现在可以正确地联网到远程客户端。[/p][/*][*][p]调整了玩家模型遮挡边界。[/p][/*][*][p]修复了布娃娃在特定身体中射击时丢失死亡速度的问题[/p][/*][*][p]对离开地面和着陆时的地面平滑过渡进行了细微调整。[/p][/*][*][p]修复了后处理过渡不平滑的情况（例如在冻结时间结束时）。[/p][/*][*][p]修复了古代地图指南在夜间无法加载的情况版本[/p][/*][*][p]调整了死亡竞赛中各种武器的得分值。[/p][/*][*][p]调整了死亡竞赛和军备竞赛中的 XP 限制。[/p][/*][/list]"
       }
     ]
   }
