@@ -2,6 +2,48 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165564136",
+        "title": "Team Falcons' Finale",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564136",
+        "is_external_url": true,
+        "author": "COMPLEX",
+        "contents": "[p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.\n\nFacing the defending Major Champions in the Quarterfinals, Falcons defeated Vitality 2-1, with each map taking 24 rounds to determine a winner. The Semifinals weren't any easier, where the Falcons met Team Spirit in a best of three that saw two maps go to Overtime. In the end, the Falcons outlasted Team Spirit 16:12 on Dust II, taking the series 2-1 and booking their first appearance in the Grand Finals. \n\nIn the Grand Finals the Falcons left no doubt, defeating FURIA 3-0 to claim the organization's first Major Championship.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/1a646666feb18ff678ffee27f43faa3c8b0e1560.png[/img]\nTo celebrate the closing of the Cologne Major, new items are available in the Major Shop: the IEM Cologne 2026 Champions Autograph stickers (featuring Paper, Holo, Foil, and Gold autographs from Falcons players), and IEM Cologne 2026 Highlight Charms (featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons' trophy-lifting moment.)\n\nCongratulations to the Falcons, champions of the Cathedral and champions of the IEM Cologne 2026 Major![/p]",
+        "feedlabel": "Community Announcements",
+        "date": 1782874684,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "mod_reviewed",
+          "ModAct_1415716708_1782874726_0",
+          "mod_require_rereview"
+        ],
+        "title_en": "Team Falcons' Finale",
+        "contents_en": "[p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]Taking on the toughest Playoff bracket in Major history, the Falcons made a triumphant statement at the IEM Cologne 2026 Major.\n\nFacing the defending Major Champions in the Quarterfinals, Falcons defeated Vitality 2-1, with each map taking 24 rounds to determine a winner. The Semifinals weren't any easier, where the Falcons met Team Spirit in a best of three that saw two maps go to Overtime. In the end, the Falcons outlasted Team Spirit 16:12 on Dust II, taking the series 2-1 and booking their first appearance in the Grand Finals. \n\nIn the Grand Finals the Falcons left no doubt, defeating FURIA 3-0 to claim the organization's first Major Championship.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/1a646666feb18ff678ffee27f43faa3c8b0e1560.png[/img]\nTo celebrate the closing of the Cologne Major, new items are available in the Major Shop: the IEM Cologne 2026 Champions Autograph stickers (featuring Paper, Holo, Foil, and Gold autographs from Falcons players), and IEM Cologne 2026 Highlight Charms (featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons' trophy-lifting moment.)\n\nCongratulations to the Falcons, champions of the Cathedral and champions of the IEM Cologne 2026 Major![/p]",
+        "title_cn": "猎鹰队决赛",
+        "contents_cn": "[p][img]https://clan.fastly.steamstatic.com/images/3381077/97e2906ad1381f57c881ca5049649e1d38001ac3.jpg[/img]在Major历史上最艰难的季后赛中，猎鹰队在IEM科隆2026年Major上取得了胜利。\n\n四分之一决赛面对卫冕大满贯冠军，猎鹰队以 2-1 击败 Vitality，每张地图需要 24 轮才能决出胜负。半决赛也没有那么容易，猎鹰队在三局两胜的比赛中遇到了团队精神队，两张地图进入了加时赛。最终，猎鹰队在《Dust II》中以 16 分 12 秒击败 Team Spirit，以 2-1 拿下系列赛，首次闯入总决赛。 \n\n在总决赛中，猎鹰队毫无悬念地以 3-0 击败 FURIA，夺得该组织的首个大满贯冠军。\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/1a646666feb18ff678ffee27f43faa3c8b0e1560.png[/img]\n为了庆祝科隆特锦赛的闭幕，Major 商店推出了新商品：IEM 科隆 2026 冠军亲笔签名贴纸（包含猎鹰队球员的纸质签名、全息签名、铝箔签名和金质签名）和 IEM 科隆 2026 亮点吊饰（包含 2026 年科隆特锦赛六个赛段的每个赛段的 10 个亮点，以及猎鹰队举起奖杯的时刻。）\n\n恭喜猎鹰队，大教堂冠军和 IEM 科隆 2026 Major 冠军！[/p]"
+      },
+      {
+        "gid": "1836506165564135",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165564135",
+        "is_external_url": true,
+        "author": "brianlev",
+        "contents": "[p]\\[ COLOGNE 2026 MAJOR ][/p][list][*][p]Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons![/p][/*][*][p]Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons' trophy-lifting moment.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1782874677,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ COLOGNE 2026 MAJOR ][/p][list][*][p]Champions Autograph Stickers are now available for purchase in the Major Shop, congratulations to the Falcons![/p][/*][*][p]Highlight Souvenir Charms are now available for purchase in the Major Shop, featuring 10 highlights for each of the six stages of the Cologne 2026 Major, and the Falcons' trophy-lifting moment.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ 科隆 2026 大满贯 ][/p][列表][*][p]冠军亲笔签名贴纸现已在大满贯商店购买，恭喜猎鹰队！[/p][/*][*][p]亮点纪念品吊饰现已在大满贯商店出售，其中包含 2026 年科隆大满贯六个赛段各 10 个精彩瞬间以及猎鹰队的举起奖杯的时刻。[/p][/*][/list]"
+      },
+      {
         "gid": "1835871199310024",
         "title": "The IEM Cologne 2026 Grand Finals",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199310024",
@@ -151,43 +193,6 @@
         "contents_en": "[p]\\[ SPECTATING ][/p][list][*][p]Fixed a case of post-processing glitch when switching spectator targets on maps with different post-processing volumes.[/p][/*][*][p]Fixed a case of stuck x-ray silhouettes when switching spectator targets.[/p][/*][*][p]Fixed spectator damage overlay effect.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added weapon_accuracy_stack_boost_limit (default value \"2\") to apply ladder inaccuracy to players boosted by a stack of this many or more players.[/p][/*][*][p]Adjustments to AWP draw to idle animation transition.[/p][/*][*][p]Improved consistency of grenade jump throws and the accuracy of the jump throw preview camera.[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Adjusted model for window covers to show collision / decals when shot.[/p][/*][*][p]Adjustments to player clipping and grenade clipping around windows, window covers, and vent entrance.[/p][/*][/list][p][/p][p]\\[ MAP SCRIPTING ][/p][list][*][p]Added Instance.RegisterCheatCommand[/p][/*][*][p]Added Instance.GetAllPlayerControllers[/p][/*][*][p]Added Instance.OnBeginRoundRestart[/p][/*][*][p]Added Instance.SetRoundRemainingTime[/p][/*][*][p]Added CSPlayerController.AddMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.GetMoneySpendableNow[/p][/*][*][p]Added CSPlayerController.AddMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerController.GetMoneyEarnedForNextRound[/p][/*][*][p]Added CSPlayerPawn.HasHelmet[/p][/*][*][p]Added CSPlayerPawn.SetHasHelmet[/p][/*][*][p]Added CSPlayerPawn.IsScoped[/p][/*][*][p]Added CSWeaponBase.IsSilencerOn[/p][/*][*][p]Changed the activator for OnPlayerUse to always be the player[/p][/*][*][p]Changed the caller for OnPlayerUse to always be the used entity[/p][/*][*][p]Fixed the value of CSInputs.LOOK_AT_WEAPON[/p][/*][*][p]Fixed a potential crash in exception handling[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ 观看][/p][list][*][p]修复了在具有不同后处理体积的地图上切换观众目标时出现后处理故障的情况。[/p][/*][*][p]修复了切换观众目标时 X 射线轮廓卡住的情况。[/p][/*][*][p]修复了观众伤害叠加效果。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]添加了 Weapon_accuracy_stack_boost_limit（默认值“2”），以将梯子不准确度应用于由这么多或更多玩家叠加的玩家。[/p][/*][*][p]调整 AWP 绘制到空闲动画过渡。[/p][/*][*][p]改进了手榴弹跳投的一致性和跳投预览相机的准确性。[/p][/*][/list][p][/p][p]\\[ MAPS ][/p][p]缓存[/p][list][*][p]调整了窗盖的模型，以在以下情况下显示碰撞/贴花[/p][/*][*][p]调整了窗户、窗盖和通风口周围的玩家剪裁和手榴弹剪裁。[/p][/*][/list][p][/p][p]\\[ 地图脚本][/p][list][*][p]添加了 Instance.RegisterCheatCommand[/p][/*][*][p]添加Instance.GetAllPlayerControllers[/p][/*][*][p]添加 Instance.OnBeginRoundRestart[/p][/*][*][p]添加 Instance.SetRoundRemainingTime[/p][/*][*][p]添加 CSPlayerController.AddMoneySpendableNow[/p][/*][*][p]添加CSPlayerController.GetMoneySpendableNow[/p][/*][*][p]添加了 CSPlayerController.AddMoneyEarnedForNextRound[/p][/*][*][p]添加了 CSPlayerController.GetMoneyEarnedForNextRound[/p][/*][*][p]添加了 CSPlayerPawn.HasHelmet[/p][/*][*][p]添加了CSPlayerPawn.SetHasHelmet[/p][/*][*][p]添加了 CSPlayerPawn.IsScoped[/p][/*][*][p]添加了 CSWeaponBase.IsSilencerOn[/p][/*][*][p]将 OnPlayerUse 的激活器更改为始终为玩家[/p][/*][*][p]更改了 OnPlayerUse 的调用者始终是使用的实体[/p][/*][*][p]修复了 CSInputs.LOOK_AT_WEAPON 的值[/p][/*][*][p]修复了异常处理中潜在的崩溃[/p][/*][/list]"
-      },
-      {
-        "gid": "1832700592790456",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592790456",
-        "is_external_url": true,
-        "author": "daVinci1980",
-        "contents": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin pull animation.[/p][/*][*][p]Miscellaneous stability improvements.[/p][/*][/list][p]\\[ TOOLS ][/p][list][*][p]Fixed bug that prevented the asset in use from being selected when model browser was opened.[/p][/*][*][p]Fixed bug with layered materials with same surface property on all layers. [/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]Added roundmvpanthem_02 for all NIGHTMODE II music kits which plays at 1:5 ratio.[/p][/*][/list][p][/p]",
-        "feedlabel": "Community Announcements",
-        "date": 1778797438,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ MAPS ][/p][p]Cache[/p][list][*][p]Fixed various holes in map[/p][/*][*][p]Fixed surfacetypes for various materials.[/p][/*][*][p]Added grating to some windows to make them block bullets.[/p][/*][*][p]Tweaks to player and grenade clipping.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Fixed a case where it was possible to cancel a grenade throw after the throw was started near the end of the pin pull animation.[/p][/*][*][p]Miscellaneous stability improvements.[/p][/*][/list][p]\\[ TOOLS ][/p][list][*][p]Fixed bug that prevented the asset in use from being selected when model browser was opened.[/p][/*][*][p]Fixed bug with layered materials with same surface property on all layers. [/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]Added roundmvpanthem_02 for all NIGHTMODE II music kits which plays at 1:5 ratio.[/p][/*][/list][p][/p]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ MAPS ][/p][p]缓存[/p][list][*][p]修复了地图中的各种漏洞[/p][/*][*][p]修复了各种材质的表面类型。[/p][/*][*][p]向某些窗口添加了光栅，使其能够阻挡子弹。[/p][/*][*][p]对玩家和手榴弹进行了调整剪辑。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]修复了在拉针动画接近结束时开始投掷手榴弹后可以取消投掷的情况。[/p][/*][*][p]其他稳定性改进。[/p][/*][/list][p]\\[ 工具][/p][list][*][p]修复了打开模型浏览器时无法选择正在使用的资源的错误。[/p][/*][*][p]修复了所有图层上具有相同表面属性的分层材质的错误。 [/p][/*][/list][p]\\[ MUSIC KITS ][/p][list][*][p]为所有 NIGHTMODE II 音乐套件添加了 roundmvpanthem_02，以 1:5 比例播放。[/p][/*][/list][p][/p]"
-      },
-      {
-        "gid": "1832065502813483",
-        "title": "NIGHTMODE II Music Kits",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502813483",
-        "is_external_url": true,
-        "author": "COMPLEX",
-        "contents": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\nToday we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:\n[list]\n[*] ALRT, DOPAMINE HIT\n[*] Altare, Change My Mind\n[*] borne, Give It To Me\n[*] Pirapus, EVERYNITE\n[*] Repiet & Julia Kleijn, On And On\n[*] ShockOne, Voices\n[/list]Alongside new music kits, we've continued updating Cache and made other miscellaneous fixes. \n\nRelease Notes for today's update can be found [url=https://store.steampowered.com/news/app/730/view/702141807556821888]here[/url].\n\n",
-        "feedlabel": "Community Announcements",
-        "date": 1778191843,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "title_en": "NIGHTMODE II Music Kits",
-        "contents_en": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\nToday we are releasing six new music kits with NIGHTMODE Records. NIGHTMODE II Music Kits are now available in the STORE tab, featuring:\n[list]\n[*] ALRT, DOPAMINE HIT\n[*] Altare, Change My Mind\n[*] borne, Give It To Me\n[*] Pirapus, EVERYNITE\n[*] Repiet & Julia Kleijn, On And On\n[*] ShockOne, Voices\n[/list]Alongside new music kits, we've continued updating Cache and made other miscellaneous fixes. \n\nRelease Notes for today's update can be found [url=https://store.steampowered.com/news/app/730/view/702141807556821888]here[/url].\n\n",
-        "title_cn": "NIGHTMODE II 音乐套件",
-        "contents_cn": "[img]https://clan.akamai.steamstatic.com/images/3381077/6cfbf7066cc7fdedd3fc9cfd3a46a131d195d4ac.png[/img]\n今天，我们将与 NIGHTMODE Records 一起发布六款新音乐套件。 NIGHTMODE II 音乐套件现已在 STORE 选项卡中提供，其中包括：\n[列表]\n[*] 警报，多巴胺发挥作用\n[*] 阿尔塔，改变我的想法\n[*] 承担，给我\n[*] 皮拉帕斯，每夜\n[*] Repiet 和 Julia Kleijn，《On And On》\n[*] ShockOne、声音\n[/list]除了新的音乐包之外，我们还继续更新缓存并进行其他杂项修复。 \n\n今天的更新的发行说明可以在[url=https://store.steampowered.com/news/app/730/view/702141807556821888]此处[/url]找到。"
       }
     ]
   }
