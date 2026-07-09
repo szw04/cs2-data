@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1836506165584645",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645",
+        "is_external_url": true,
+        "author": "jo",
+        "contents": "[p]\\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Adjusted the \"Sniper Ahead\" sticker visibility when scraped.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where season medals were missing their gold tint on one of the bars.[/p][/*][*][p]Fixed a case where the scoreboard wouldn't update while open.[/p][/*][*][p]Various stability improvements.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1783633576,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ GAMEPLAY ][/p][list][*][p]Removed map-wide minimum one point of damage from new C4 explosions.[/p][/*][*][p]Fixed a case where new C4 damage was calculated incorrectly near boundaries to other map areas.[/p][/*][*][p]New C4 explosions now apply more force to dropped weapons.[/p][/*][/list][p][/p][p]\\[ ARMORY ][/p][list][*][p]Adjusted the \"Sniper Ahead\" sticker visibility when scraped.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where season medals were missing their gold tint on one of the bars.[/p][/*][*][p]Fixed a case where the scoreboard wouldn't update while open.[/p][/*][*][p]Various stability improvements.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ GAMEPLAY ][/p][list][*][p]删除了新 C4 爆炸造成的全地图最小 1 点伤害。[/p][/*][*][p]修复了在其他地图区域边界附近错误计算新 C4 伤害的情况。[/p][/*][*][p]新 C4 爆炸现在对掉落物施加更大的力武器。[/p][/*][/list][p][/p][p]\\[ 军械库 ][/p][list][*][p]调整了刮擦时“前方狙击手”贴纸的可见性。[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]修复了赛季奖牌缺少金色色调的情况其中一个栏。[/p][/*][*][p]修复了记分板在打开时无法更新的情况。[/p][/*][*][p]各种稳定性改进。[/p][/*][/list]"
+      },
+      {
         "gid": "1836506165581827",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165581827",
@@ -53,7 +73,7 @@
         "title_en": "Counter-Strike 2 might be the biggest game on Steam, but Global Offensive is breaking player count records since it went standalone again",
         "contents_en": "<img src=\"https://cdn.mos.cms.futurecdn.net/wVpHPL9ydYs2bbARuj4eRe-1280-80.jpg\"/><br><br>\n                nytime you're talking about the hottest game on Steam, there's an evergreen unspoken caveat: 'after Counter-Strike, of course.' CS2 is unquestionably Steam's killer app—it has <a href=\"https://steamdb.info/app/730/charts/\" target=\"_blank\">well over a million concurrent players</a> as I write this according to SteamDB, and it's showing no signs of slowing down. But don't count out the game it <a href=\"https://www.pcgamer.com/counter-strike-2-released/\">once absorbed</a> and <a href=\"https://www.pcgamer.com/games/fps/counter-strike-global-offensive-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/\">then spat out</a>: its predecessor, Global Offensive...\n                <a href=\"https://www.pcgamer.com/games/fps/counter-strike-2-might-be-the-biggest-game-on-steam-but-global-offensive-is-breaking-player-count-records-since-it-went-standalone-again/?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
         "title_cn": "《反恐精英 2》可能是 Steam 上最大的游戏，但《全球攻势》自再次独立以来正在打破玩家数量记录",
-        "contents_cn": "<img src=\"https://cdn.mos.cms.futurecdn.net/wVpHPL9ydYs2bbARuj4eRe-1280-80.jpg\"/><br><br>\n                每当您谈论 Steam 上最热门的游戏时，总会有一个不言而喻的警告：“当然是在《反恐精英》之后。” CS2 毫无疑问是 Steam 的杀手级应用——根据 SteamDB 的说法，它的<a href=\"https://steamdb.info/app/730/charts/\" target=\"_blank\">并发玩家数量远远超过一百万</a>，并且没有任何放缓的迹象。但不要指望游戏<a href=\"https://www.pcgamer.com/counter-strike-2-released/\">一旦吸收</a>和<a href=\"https://www.pcgamer.com/games/fps/counter-strike-global-offective-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/\">然后吐出</a>：前作《全球攻势》...\n                <a href=\"https://www.pcgamer.com/games/fps/counter-strike-2-might-be-the-biggest-game-on-steam-but-global-offective-is-breaking-player-count-records-since-it-went-standalone-again/?utm_source=steam&utm_medium=referral\" target=\"_blank\">了解更多。</a>"
+        "contents_cn": "<img src=\"https://cdn.mos.cms.futurecdn.net/wVpHPL9ydYs2bbARuj4eRe-1280-80.jpg\"/><br><br>\n                每当您谈论 Steam 上最热门的游戏时，总会有一个不言而喻的警告：“当然是在《反恐精英》之后。” CS2 毫无疑问是 Steam 的杀手级应用——根据 SteamDB 的说法，它的<a href=\"https://steamdb.info/app/730/charts/\" target=\"_blank\">并发玩家数量远远超过一百万</a>，并且没有任何放缓的迹象。但不要指望游戏<a href=\"https://www.pcgamer.com/counter-strike-2-released/\">一旦吸收</a>和<a href=\"https://www.pcgamer.com/games/fps/counter-strike-global-offective-is-back-3-years-after-it-was-muscled-out-by-counter-strike-2-cs-go-has-its-own-steam-page-again-and-has-powered-its-way-back-onto-steams-most-played-chart/\">然后吐出</a>：前作《全球攻势》...\n                <a href=\"https://www.pcgamer.com/games/fps/counter-strike-2-might-be-the-biggest-game-on-steam-but-global-offective-is-writing-player-count-records-since-it-went-standalone-again/?utm_source=steam&utm_medium=referral\" target=\"_blank\">了解更多。</a>。"
       },
       {
         "gid": "1836506165571358",
@@ -129,7 +149,7 @@
         "title_en": "The IEM Cologne 2026 Grand Finals",
         "contents_en": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\nFollowing one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.\n\nAfter losing the opening map of their Playoffs, FURIA have been unbeaten, rallying back against 9z Team to win 2-1 in the Quarterfinals and taking down Aurora Gaming 2-0 in the Semifinals to reach the Grand Finals for the first time in the organization's history. \n\nTeam Falcons took down the world's #1 team, Team Vitality, 2-1 in the Quarterfinals. A day later, they punched their ticket to the Grand Finals by defeating Team Spirit 2-1 in dramatic fashion, needing Overtime in the third map. This is Team Falcons first Major Championship appearance.  \n\nCoverage of the best of five Grand Finals between FURIA and Team Falcons begins with the opening ceremony at 16:45 CEST (10:45AM EDT). Don't miss a moment!\n\nAnd with the Major coming to a close, team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nGood luck to both teams!",
         "title_cn": "2026年IEM科隆总决赛",
-        "contents_cn": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\n在经历了大满贯季后赛历史上最难忘的日子之一之后，周六的半决赛让两支球队争夺大满贯冠军。\n\n在季后赛首轮失利后，FURIA 一直保持不败，在四分之一决赛中以 2-1 逆转战胜 9z Team，并在半决赛中以 2-0 击败 Aurora Gaming，历史上首次进入总决赛。 \n\n猎鹰队在四分之一决赛中以 2-1 击败了世界排名第一的球队活力队。一天后，他们在第三张地图上经过加时赛，以戏剧性的方式以 2-1 击败 Team Spirit，从而获得了总决赛的入场券。这是猎鹰队首次参加大满贯赛。  \n\n对 FURIA 与猎鹰队之间的总决赛五局三胜的报道从欧洲中部夏令时间 16:45（美国东部时间上午 10:45）开幕式开始。不要错过任何一刻！\n\n随着Major 即将结束，球队和球员贴纸仍然可用，比赛物品销售的 50% 与比赛组织者、球队和球员分享。\n\n祝两队好运！"
+        "contents_cn": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\n在经历了大满贯季后赛历史上最难忘的日子之一之后，周六的半决赛让两支球队争夺大满贯冠军。\n\n在季后赛首张地图失利后，FURIA 一直保持不败，在四分之一决赛中以 2-1 逆转战胜 9z Team，并在半决赛中以 2-0 击败 Aurora Gaming，历史上首次进入总决赛。 \n\n猎鹰队在四分之一决赛中以 2-1 击败了世界排名第一的球队活力队。一天后，他们在第三张地图上经过加时赛，以戏剧性的方式以 2-1 击败 Team Spirit，从而获得了总决赛的入场券。这是猎鹰队首次参加大满贯赛。  \n\n对 FURIA 与猎鹰队之间的总决赛五局三胜的报道从欧洲中部夏令时间 16:45（美国东部时间上午 10:45）开幕式开始。不要错过任何一刻！\n\n随着Major 即将结束，球队和球员贴纸仍然可用，比赛物品销售的 50% 与比赛组织者、球队和球员分享。\n\n祝两队好运！"
       },
       {
         "gid": "1835871199302220",
@@ -167,26 +187,6 @@
         "contents_en": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.[/p][/*][*][p]Fixed number wrapping rules in some languages.[/p][/*][/list]",
         "title_cn": "反恐精英 2 更新",
         "contents_cn": "[p]\\[ 科隆 2026 ][/p][list][*][p]在科隆 2026 主要商店中添加了过去 7 天内最低和最高标价的显示。[/p][/*][*][p]在主菜单上的科隆 2026 主要枢纽图块中添加了贴纸展示。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]在存储单元存款/检索用户界面中添加了多选功能。[/p][/*][*][p]当用户的库存已满并尝试兑换每周护理包奖励、军械库物品或主要商店购物车中的物品时添加了适当的错误消息。[/p][/*][*][p]修复了某些语言的数字换行规则。[/p][/*][/list]"
-      },
-      {
-        "gid": "1833968530889736",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530889736",
-        "is_external_url": true,
-        "author": "brianlev",
-        "contents": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\\[ MAPS ][/p][p]Ancient[/p][list][*][p]Updated clipping to prevent certain boost locations[/p][/*][/list][p]Sanctum[/p][list][*][p]Updated to the latest version from Steam Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]Update Notes[/url])[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1780013843,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added ability to bookmark stickers in Cologne 2026 Shop.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added convar r_spectator_flashbang_opacity to control flashbang opacity for remote spectators.[/p][/*][*][p]Flashbang effect for remote spectators now renders underneath the HUD.[/p][/*][*][p]Stability improvements[/p][/*][/list][p]\\[ MAPS ][/p][p]Ancient[/p][list][*][p]Updated clipping to prevent certain boost locations[/p][/*][/list][p]Sanctum[/p][list][*][p]Updated to the latest version from Steam Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]Update Notes[/url])[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]添加了在 Cologne 2026 商店中为贴纸添加书签的功能。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]添加了 convar r_spectator_flashbang_opacity 来控制远程闪光弹的不透明度观众。[/p][/*][*][p]远程观众的闪光效果现在在 HUD 下方呈现。[/p][/*][*][p]稳定性改进[/p][/*][/list][p]\\[ MAPS ][/p][p]古代[/p][list][*][p]更新了剪辑以防止某些增强地点[/p][/*][/list][p]Sanctum[/p][list][*][p]已从 Steam 创意工坊更新至最新版本 ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3643331442\"]更新说明[/url])[/p][/*][/list]"
       }
     ]
   }
