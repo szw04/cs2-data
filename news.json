@@ -2,6 +2,26 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329252903",
+        "title": "Counter-Strike 2 Update",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903",
+        "is_external_url": true,
+        "author": "mcjohn",
+        "contents": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url]).[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url]).[/p][/*][/list][p]El Dorado[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3408790618\"]Update Notes[/url]).[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Various stability and security fixes.[/p][/*][/list]",
+        "feedlabel": "Community Announcements",
+        "date": 1784076120,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "patchnotes"
+        ],
+        "title_en": "Counter-Strike 2 Update",
+        "contents_en": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]Update Notes[/url]).[/p][/*][/list][p]Boulder[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]Update Notes[/url]).[/p][/*][/list][p]Shelter[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]Update Notes[/url]).[/p][/*][/list][p]El Dorado[/p][list][*][p]Updated to the latest version from the Community Workshop ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3408790618\"]Update Notes[/url]).[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Various stability and security fixes.[/p][/*][/list]",
+        "title_cn": "反恐精英 2 更新",
+        "contents_cn": "[p]\\[ MAPS ][/p][p]Fachwerk[/p][list][*][p]已更新至社区研讨会的最新版本 ([url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3442040035\"]更新注释[/url]）。[/p][/*][/list][p]Boulder[/p][list][*][p]已更新至社区研讨会的最新版本（[url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3663186989\"]更新注释[/url]）。[/p][/*][/list][p]Shelter[/p][list][*][p]已更新至社区研讨会的最新版本（[url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3737179295\"]更新注释[/url]）。[/p][/*][/list][p]El Dorado[/p][list][*][p]从社区研讨会更新到最新版本（[url=\"https://steamcommunity.com/sharedfiles/filedetails/changelog/3408790618\"]更新说明[/url]）。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]各种稳定性和安全性修复。[/p][/*][/list]"
+      },
+      {
         "gid": "1836506165584645",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165584645",
@@ -167,26 +187,6 @@
         "contents_en": "Playoffs at the IEM Cologne 2026 Major begin tomorrow and the \"Cathedral of Counter-Strike\" awaits.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFor the second consecutive Major, FURIA and Team Spirit finished Stage III with perfect 3-0 records. Aurora, Falcons, and Vitality finished 3-1, and 9z Team, BetBoom, and G2 Esports advanced with 3-2 records.\n\nThe Lanxess Arena will host the Playoffs, beginning with Thursday's Quarterfinals matchups:\n[list]\n[*] 9z Team vs. FURIA\n[*] Aurora vs. BetBoom\n[/list]The second set of Quarterfinals takes place Friday, featuring:\n[list]\n[*] G2 Esports vs. Team Spirit\n[*] Falcons vs. Vitality\n[/list]\nWith Semifinals on Saturday and the Grand Finals on Sunday, we're in for a great weekend of Counter-Strike.\n\nAs the Playoffs approach, there's still time to support your favorite teams. Team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nAnd don't forget, all Playoff picks for the Pick'Em Challenge must be submitted prior to the first Playoff match beginning; you don't want to miss your Diamond Coin!\n\nVitality are looking to win their third straight Major. Will anyone stop them? Tune in and find out!",
         "title_cn": "季后赛在“反恐精英大教堂”举行",
         "contents_cn": "IEM 科隆 2026 Major 季后赛将于明天开始，“反恐精英大教堂”正等待着您。\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFURIA 和 Team Spirit 连续第二年以 3-0 的完美战绩结束了第三阶段的Major。 Aurora、Falcons 和 Vitality 以 3-1 获胜，9z Team、BetBoom 和 G2 Esports 以 3-2 战绩晋级。\n\n朗盛竞技场将举办季后赛，从周四的四分之一决赛对决开始：\n[列表]\n[*] 9z Team 对阵 FURIA\n[*] Aurora 与 BetBoom\n[/list]第二组四分之一决赛将于周五举行，其中包括：\n[列表]\n[*] G2 Esports 与 Team Spirit\n[*] 猎鹰队 vs. 活力队\n[/列表]\n随着周六的半决赛和周日的总决赛，我们将迎来一个精彩的《反恐精英》周末。\n\n随着季后赛的临近，您仍然有时间支持您最喜欢的球队。球队和球员贴纸仍然可用，比赛物品销售的 50% 与比赛组织者、球队和球员分享。\n\n并且不要忘记，Pick'Em 挑战赛的所有季后赛选秀权都必须在第一场季后赛比赛开始之前提交；你不想错过你的钻石币！\n\n活力队希望连续第三次赢得大满贯冠军。有人会阻止他们吗？收听并找出答案！"
-      },
-      {
-        "gid": "1835236783558731",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783558731",
-        "is_external_url": true,
-        "author": "Vitaliy",
-        "contents": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.[/p][/*][*][p]Fixed number wrapping rules in some languages.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1781126525,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ COLOGNE 2026 ][/p][list][*][p]Added display of lowest and highest sticker price in the last 7 days in the Cologne 2026 Major Shop.[/p][/*][*][p]Added stickers showcase to the Cologne 2026 Major Hub tile on the main menu.[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]Added multi-select functionality in Storage Units deposit/retrieve UI.[/p][/*][*][p]Added appropriate error message when user's inventory is full and they try to redeem Weekly Care Package rewards, Armory items, or items in the Major Shop cart.[/p][/*][*][p]Fixed number wrapping rules in some languages.[/p][/*][/list]",
-        "title_cn": "反恐精英 2 更新",
-        "contents_cn": "[p]\\[ 科隆 2026 ][/p][list][*][p]在科隆 2026 主要商店中添加了过去 7 天内最低和最高标价的显示。[/p][/*][*][p]在主菜单上的科隆 2026 主要枢纽图块中添加了贴纸展示。[/p][/*][/list][p]\\[ MISC ][/p][list][*][p]在存储单元存款/检索用户界面中添加了多选功能。[/p][/*][*][p]当用户的库存已满并尝试兑换每周护理包奖励、军械库物品或主要商店购物车中的物品时添加了适当的错误消息。[/p][/*][*][p]修复了某些语言的数字换行规则。[/p][/*][/list]"
       }
     ]
   }
