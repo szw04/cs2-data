@@ -2,6 +2,30 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1838407329258098",
+        "title": "Call II Arms-ory",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329258098",
+        "is_external_url": true,
+        "author": "COMPLEX",
+        "contents": "Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!\n\nNow that these items are available, we're looking for new items for one new weapon collection:\n    \n - Fairy Tales\n    \nAnd two new sticker collections:\n\n- Cryptids\n- Pop Art\n\nTo submit weapon finishes and stickers to this Call to Arms, select the appropriate option using the Counter-Strike 2 Workshop Tool:\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/a81bfcc2c8c1dccad0505d7aced8c7091a808283.png[/img]\nIn order to have your items included in these new collections, you must agree to [url=https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730&snr=1_2108_9__2107]Counter-Strike 2's Supplemental terms[/url].\n\nWe're excited to see your take on the categories above!",
+        "feedlabel": "Community Announcements",
+        "date": 1784245194,
+        "feedname": "steam_community_announcements",
+        "feed_type": 1,
+        "appid": 730,
+        "tags": [
+          "hide_store",
+          "hide_library_overview",
+          "patchnotes",
+          "workshop",
+          "hide_library_detail"
+        ],
+        "title_en": "Call II Arms-ory",
+        "contents_en": "Last week we released new weapon and sticker collections from our previous [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url]. Congratulations to the artists who had their items included!\n\nNow that these items are available, we're looking for new items for one new weapon collection:\n    \n - Fairy Tales\n    \nAnd two new sticker collections:\n\n- Cryptids\n- Pop Art\n\nTo submit weapon finishes and stickers to this Call to Arms, select the appropriate option using the Counter-Strike 2 Workshop Tool:\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/a81bfcc2c8c1dccad0505d7aced8c7091a808283.png[/img]\nIn order to have your items included in these new collections, you must agree to [url=https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730&snr=1_2108_9__2107]Counter-Strike 2's Supplemental terms[/url].\n\nWe're excited to see your take on the categories above!",
+        "title_cn": "Call II 军火库",
+        "contents_cn": "上周，我们发布了之前的 [url=https://store.steampowered.com/news/app/730/view/500591777095353663]Call to Arms-ory[/url] 中的新武器和贴纸系列。恭喜那些将他们的作品纳入其中的艺术家！\n\n现在这些物品已经可用，我们正在为一个新武器系列寻找新物品：\n    \n - 童话故事\n    \n还有两个新的贴纸系列：\n\n- 隐秘生物\n- 波普艺术\n\n要向此“武装号召”提交武器饰面和贴纸，请使用《反恐精英 2》创意工坊工具选择适当的选项：\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/a81bfcc2c8c1dccad0505d7aced8c7091a808283.png[/img]\n为了让您的物品包含在这些新收藏中，您必须同意 [url=https://steamcommunity.com/workshop/workshoplegalagreement/?appid=730&snr=1_2108_9__2107]Counter-Strike 2 的补充条款[/url]。\n\n我们很高兴看到您对上述类别的看法！"
+      },
+      {
         "gid": "1838407329252903",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1838407329252903",
@@ -170,23 +194,6 @@
         "contents_en": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\nFollowing one of the most unforgettable days in Major playoff history, Saturday's Semifinals left two teams standing in pursuit of a Major Championship.\n\nAfter losing the opening map of their Playoffs, FURIA have been unbeaten, rallying back against 9z Team to win 2-1 in the Quarterfinals and taking down Aurora Gaming 2-0 in the Semifinals to reach the Grand Finals for the first time in the organization's history. \n\nTeam Falcons took down the world's #1 team, Team Vitality, 2-1 in the Quarterfinals. A day later, they punched their ticket to the Grand Finals by defeating Team Spirit 2-1 in dramatic fashion, needing Overtime in the third map. This is Team Falcons first Major Championship appearance.  \n\nCoverage of the best of five Grand Finals between FURIA and Team Falcons begins with the opening ceremony at 16:45 CEST (10:45AM EDT). Don't miss a moment!\n\nAnd with the Major coming to a close, team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nGood luck to both teams!",
         "title_cn": "2026年IEM科隆总决赛",
         "contents_cn": "[img]https://clan.akamai.steamstatic.com/images/3381077/9f1d1c4b0485c1e7b3b667d4a7c748bd55c5bb46.png[/img]\n在经历了大满贯季后赛历史上最难忘的日子之一之后，周六的半决赛让两支球队争夺大满贯冠军。\n\n在季后赛首张地图失利后，FURIA 一直保持不败，在四分之一决赛中以 2-1 逆转战胜 9z Team，并在半决赛中以 2-0 击败 Aurora Gaming，历史上首次进入总决赛。 \n\n猎鹰队在四分之一决赛中以 2-1 击败了世界排名第一的球队活力队。一天后，他们在第三张地图上经过加时赛，以戏剧性的方式以 2-1 击败 Team Spirit，从而获得了总决赛的入场券。这是猎鹰队首次参加大满贯赛。  \n\n对 FURIA 与猎鹰队之间的总决赛五局三胜的报道从欧洲中部夏令时间 16:45（美国东部时间上午 10:45）开幕式开始。不要错过任何一刻！\n\n随着Major 即将结束，球队和球员贴纸仍然可用，比赛物品销售的 50% 与比赛组织者、球队和球员分享。\n\n祝两队好运！"
-      },
-      {
-        "gid": "1835871199302220",
-        "title": "Playoffs at the \"Cathedral of Counter-Strike\"",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835871199302220",
-        "is_external_url": true,
-        "author": "COMPLEX",
-        "contents": "Playoffs at the IEM Cologne 2026 Major begin tomorrow and the \"Cathedral of Counter-Strike\" awaits.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFor the second consecutive Major, FURIA and Team Spirit finished Stage III with perfect 3-0 records. Aurora, Falcons, and Vitality finished 3-1, and 9z Team, BetBoom, and G2 Esports advanced with 3-2 records.\n\nThe Lanxess Arena will host the Playoffs, beginning with Thursday's Quarterfinals matchups:\n[list]\n[*] 9z Team vs. FURIA\n[*] Aurora vs. BetBoom\n[/list]The second set of Quarterfinals takes place Friday, featuring:\n[list]\n[*] G2 Esports vs. Team Spirit\n[*] Falcons vs. Vitality\n[/list]\nWith Semifinals on Saturday and the Grand Finals on Sunday, we're in for a great weekend of Counter-Strike.\n\nAs the Playoffs approach, there's still time to support your favorite teams. Team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nAnd don't forget, all Playoff picks for the Pick'Em Challenge must be submitted prior to the first Playoff match beginning; you don't want to miss your Diamond Coin!\n\nVitality are looking to win their third straight Major. Will anyone stop them? Tune in and find out!",
-        "feedlabel": "Community Announcements",
-        "date": 1781738540,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "title_en": "Playoffs at the \"Cathedral of Counter-Strike\"",
-        "contents_en": "Playoffs at the IEM Cologne 2026 Major begin tomorrow and the \"Cathedral of Counter-Strike\" awaits.\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFor the second consecutive Major, FURIA and Team Spirit finished Stage III with perfect 3-0 records. Aurora, Falcons, and Vitality finished 3-1, and 9z Team, BetBoom, and G2 Esports advanced with 3-2 records.\n\nThe Lanxess Arena will host the Playoffs, beginning with Thursday's Quarterfinals matchups:\n[list]\n[*] 9z Team vs. FURIA\n[*] Aurora vs. BetBoom\n[/list]The second set of Quarterfinals takes place Friday, featuring:\n[list]\n[*] G2 Esports vs. Team Spirit\n[*] Falcons vs. Vitality\n[/list]\nWith Semifinals on Saturday and the Grand Finals on Sunday, we're in for a great weekend of Counter-Strike.\n\nAs the Playoffs approach, there's still time to support your favorite teams. Team and player stickers are still available, with 50% of tournament item sales being shared with the tournament organizer, teams, and players.\n\nAnd don't forget, all Playoff picks for the Pick'Em Challenge must be submitted prior to the first Playoff match beginning; you don't want to miss your Diamond Coin!\n\nVitality are looking to win their third straight Major. Will anyone stop them? Tune in and find out!",
-        "title_cn": "季后赛在“反恐精英大教堂”举行",
-        "contents_cn": "IEM 科隆 2026 Major 季后赛将于明天开始，“反恐精英大教堂”正等待着您。\n\n[img]https://clan.fastly.steamstatic.com/images/3381077/c9131e2a48d99e4396581c0faa68467307e993c3.png[/img]\n\nFURIA 和 Team Spirit 连续第二年以 3-0 的完美战绩结束了第三阶段的Major。 Aurora、Falcons 和 Vitality 以 3-1 获胜，9z Team、BetBoom 和 G2 Esports 以 3-2 战绩晋级。\n\n朗盛竞技场将举办季后赛，从周四的四分之一决赛对决开始：\n[列表]\n[*] 9z Team 对阵 FURIA\n[*] Aurora 与 BetBoom\n[/list]第二组四分之一决赛将于周五举行，其中包括：\n[列表]\n[*] G2 Esports 与 Team Spirit\n[*] 猎鹰队 vs. 活力队\n[/列表]\n随着周六的半决赛和周日的总决赛，我们将迎来一个精彩的《反恐精英》周末。\n\n随着季后赛的临近，您仍然有时间支持您最喜欢的球队。球队和球员贴纸仍然可用，比赛物品销售的 50% 与比赛组织者、球队和球员分享。\n\n并且不要忘记，Pick'Em 挑战赛的所有季后赛选秀权都必须在第一场季后赛比赛开始之前提交；你不想错过你的钻石币！\n\n活力队希望连续第三次赢得大满贯冠军。有人会阻止他们吗？收听并找出答案！"
       }
     ]
   }
