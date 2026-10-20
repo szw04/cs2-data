@@ -2,6 +2,23 @@
   "appnews": {
     "newsitems": [
       {
+        "gid": "1846651706695791",
+        "title": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1846651706695791",
+        "is_external_url": true,
+        "author": "",
+        "contents": "<img src=\"https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>I'm strongly of the opinion that <a href=\"https://www.rockpapershotgun.com/topics/loot-crates\">loot boxes</a>, gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no game is better for having gacha mechanics in it, only worse. The normalisation of gambling through alternative, softer names, cool cosmetics, and in many cases, <a href=\"https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby\">cute anime girls</a> is honestly abhorrent. European ratings board PEGI doesn't seem keen on it either, as they've begun enacting <a href=\"https://www.linkedin.com/posts/connor-hinde_a-further-update-to-the-pegi-rating-system-share-7516762594133630976-tyA8/\">recent rule changes</a> bring the default age rating of games that contain these mechanics up to a minimum of PEGI 16.</p>\n <p><a href=\"https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat\">Read more</a></p>",
+        "feedlabel": "Rock, Paper, Shotgun",
+        "date": 1792507511,
+        "feedname": "Rock, Paper, Shotgun",
+        "feed_type": 0,
+        "appid": 730,
+        "title_en": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
+        "contents_en": "<img src=\"https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>I'm strongly of the opinion that <a href=\"https://www.rockpapershotgun.com/topics/loot-crates\">loot boxes</a>, gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no game is better for having gacha mechanics in it, only worse. The normalisation of gambling through alternative, softer names, cool cosmetics, and in many cases, <a href=\"https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby\">cute anime girls</a> is honestly abhorrent. European ratings board PEGI doesn't seem keen on it either, as they've begun enacting <a href=\"https://www.linkedin.com/posts/connor-hinde_a-further-update-to-the-pegi-rating-system-share-7516762594133630976-tyA8/\">recent rule changes</a> bring the default age rating of games that contain these mechanics up to a minimum of PEGI 16.</p>\n <p><a href=\"https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat\">Read more</a></p>",
+        "title_cn": "Games with loot boxes and other \"paid random items\" re-rated PEGI 16 as new rules come into force, hopefully cutting down on kids gambling somewhat",
+        "contents_cn": "<img src=\"https://assetsio.gnwcdn.com/CS2-Case.jpg?width=690&quality=85&format=jpg&auto=webp\" /> <p>I'm strongly of the opinion that <a href=\"https://www.rockpapershotgun.com/topics/loot-crates\">loot boxes</a>, gacha mechanics and whatever other form of gambling remains present in games is a scourge that ought to be wiped out. Absolutely no game is better for having gacha mechanics in it, only worse. The normalisation of gambling through alternative, softer names, cool cosmetics, and in many cases, <a href=\"https://www.rockpapershotgun.com/the-latest-game-event-to-fall-afoul-of-us-visa-rules-is-a-live-concert-for-horse-girl-racer-umamusume-pretty-derby\">cute anime girls</a> is honestly abhorrent. European ratings board PEGI doesn't seem keen on it either, as they've begun enacting <a href=\"https://www.linkedin.com/posts/connor-hinde_a-further-update-to-the-pegi-rating-system-share-7516762594133630976-tyA8/\">recent rule changes</a> bring the default age rating of games that contain these mechanics up to a minimum of PEGI 16.</p>\n <p><a href=\"https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat\">Read more</a></p>"
+      },
+      {
         "gid": "1846651706675829",
         "title": "Counter-Strike 2 Update",
         "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706675829",
@@ -177,26 +194,6 @@
         "contents_en": "[p]\\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added sv_clantags_enabled option so custom servers can disable clan tags.[/p][/*][*][p]The eggs of background players in main menu lobbies now rest in nests.[/p][/*][/list]",
         "title_cn": "Counter-Strike 2 Update",
         "contents_cn": "[p]\\[ RUSH ][/p][list][*][p]Various gap fixes and clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed some cases where loud reloads would persist while trying to stealth reload.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Added sv_clantags_enabled option so custom servers can disable clan tags.[/p][/*][*][p]The eggs of background players in main menu lobbies now rest in nests.[/p][/*][/list]"
-      },
-      {
-        "gid": "1844751498222773",
-        "title": "Counter-Strike 2 Update",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498222773",
-        "is_external_url": true,
-        "author": "jo",
-        "contents": "[p]\\[ RUSH ][/p][list][*][p]Added a better description of the rules to the loading screen.[/p][/*][*][p]Adjusted rules for determining when to kick players due to team damage.[/p][/*][*][p]Various clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.[/p][/*][*][p]Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where the AK-47 inspect animation sometimes popped.[/p][/*][/list]",
-        "feedlabel": "Community Announcements",
-        "date": 1790286698,
-        "feedname": "steam_community_announcements",
-        "feed_type": 1,
-        "appid": 730,
-        "tags": [
-          "patchnotes"
-        ],
-        "title_en": "Counter-Strike 2 Update",
-        "contents_en": "[p]\\[ RUSH ][/p][list][*][p]Added a better description of the rules to the loading screen.[/p][/*][*][p]Adjusted rules for determining when to kick players due to team damage.[/p][/*][*][p]Various clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.[/p][/*][*][p]Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where the AK-47 inspect animation sometimes popped.[/p][/*][/list]",
-        "title_cn": "Counter-Strike 2 Update",
-        "contents_cn": "[p]\\[ RUSH ][/p][list][*][p]Added a better description of the rules to the loading screen.[/p][/*][*][p]Adjusted rules for determining when to kick players due to team damage.[/p][/*][*][p]Various clipping adjustments.[/p][/*][/list][p][/p][p]\\[ GAMEPLAY ][/p][list][*][p]Fixed a case where it was possible to get a slightly faster silent reload by tapping the reload button before holding it.[/p][/*][*][p]Fixed a case where it was possible to use silent reload to fire shotguns faster than normal.[/p][/*][/list][p][/p][p]\\[ MISC ][/p][list][*][p]Fixed a case where the AK-47 inspect animation sometimes popped.[/p][/*][/list]"
       }
     ]
   }
